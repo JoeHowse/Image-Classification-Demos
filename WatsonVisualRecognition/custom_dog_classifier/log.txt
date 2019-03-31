@@ -1,0 +1,1548 @@
+Found "dogs" classifier, which is ready to use:
+{
+  "name": "dogs",
+  "status": "ready",
+  "classifier_id": "dogs_1172125986"
+}
+Classification result:
+{
+  "images_processed": 10,
+  "images": [
+    {
+      "image": "beagle_0.zip/beagle_0/Beagle_600.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.907
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Beagle-Farben.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.906
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.004
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Beagle_745.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.907
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.001
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/BeagleNiniJule.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.907
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Caynsham-beagles.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.002
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.906
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Beagle_Upsy.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.905
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.003
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.004
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Beagle_portrait_Camry.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.907
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Beagles_Puppies.png",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.034
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.66
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.009
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/2560px-Young_beagle_at_rest.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.907
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "beagle_0.zip/beagle_0/Bronco_the_Beagle.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.907
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.001
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    }
+  ],
+  "custom_classes": 4
+}
+Classification result:
+{
+  "images_processed": 10,
+  "images": [
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Chienne_dalmatienne_allaitant_6_chiots_dalmatiens.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.902
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0.001
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Weisse_welpen.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.005
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.083
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.114
+            },
+            {
+              "class": "husky",
+              "score": 0.003
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/One_Hundred_and_One_Dalmatians_movie_poster.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.033
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.413
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.048
+            },
+            {
+              "class": "husky",
+              "score": 0.008
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Binka_10_06.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.907
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Blauauge.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.01
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.905
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Prunella_Fitzgerald_de_Puech_Barrayre.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.907
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Dalmatian_puppy.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.009
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.905
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0.001
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Budweiser_Clydesdale_Dalmatian.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.906
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Dalmatian_puppy,_three_weeks-3.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.906
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "dalmatian_0.zip/dalmatian_0/Female_dalmatian_head_shot.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.907
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    }
+  ],
+  "custom_classes": 4
+}
+Classification result:
+{
+  "images_processed": 10,
+  "images": [
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/Golden_Retriever_standing_Tucker.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.907
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/1024px-Goldensondika.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.907
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/Golde33443.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.001
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.907
+            },
+            {
+              "class": "husky",
+              "score": 0.001
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/GoldenRetrieverSnow.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.002
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.903
+            },
+            {
+              "class": "husky",
+              "score": 0.012
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/Golden_Retrievers_dark_and_light.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.907
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/Canadian_Golden_Retriever.jpeg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.003
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.906
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/WizzdomOfSoulcharisma.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.001
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.904
+            },
+            {
+              "class": "husky",
+              "score": 0.012
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/Golden_Retriever_Carlos_beim_ersten_Dummy-Training_(10577749343).jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.006
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.016
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.902
+            },
+            {
+              "class": "husky",
+              "score": 0.002
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/Golden_Retriever_Carlos_(10581910556).jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.907
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "golden-retriever_0.zip/golden-retriever_0/4_months_old_white_golden_retriever.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.111
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.03
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.877
+            },
+            {
+              "class": "husky",
+              "score": 0.005
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    }
+  ],
+  "custom_classes": 4
+}
+Classification result:
+{
+  "images_processed": 10,
+  "images": [
+    {
+      "image": "husky_0.zip/husky_0/Dubby,_McKenzie_River_Huskie_from_1915.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.002
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.062
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.054
+            },
+            {
+              "class": "husky",
+              "score": 0.843
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/Huskies_pulling_sledge_(2868980227).jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.905
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.006
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/Huskytail.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.025
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.04
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.003
+            },
+            {
+              "class": "husky",
+              "score": 0.892
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/A_fishing_Husky.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.003
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.079
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.022
+            },
+            {
+              "class": "husky",
+              "score": 0.871
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/Husky_lying_on_the_ground.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.016
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.001
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.901
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/1280px-Husky_on_San_Francisco_sidewalk.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0.907
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/2560px-Winter_in_the_woods_(16260186487).jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.166
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.362
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.412
+            },
+            {
+              "class": "husky",
+              "score": 0.267
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/2560px-Bright_Eyed_Husky.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.079
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.002
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.007
+            },
+            {
+              "class": "husky",
+              "score": 0.887
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/Huskiesatrest.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.001
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0.907
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "husky_0.zip/husky_0/That_Free_Feeling_(16730323546).jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.02
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.023
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.028
+            },
+            {
+              "class": "husky",
+              "score": 0.723
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    }
+  ],
+  "custom_classes": 4
+}
+Classification result:
+{
+  "images_processed": 15,
+  "images": [
+    {
+      "image": "cats_0.zip/cats_0/Listen,_do_you_want_to_know_a_secret.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.01
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.034
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.012
+            },
+            {
+              "class": "husky",
+              "score": 0.027
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/Gato_enervado_pola_presencia_dun_can.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.001
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.025
+            },
+            {
+              "class": "husky",
+              "score": 0.001
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/Catsrepublic.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.056
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.875
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.014
+            },
+            {
+              "class": "husky",
+              "score": 0.009
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/1280px-Close_up_of_a_black_domestic_cat.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/1024px-Roo_Female_Somali_in_Cat_Cafe\u0301_Tokyo.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.014
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.838
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.026
+            },
+            {
+              "class": "husky",
+              "score": 0.002
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/Maneki-neko-ja.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.019
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.837
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.011
+            },
+            {
+              "class": "husky",
+              "score": 0.026
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/1280px-Feral_cat_Virginia_crop.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.002
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/2560px-Felis_catus-cat_on_snow.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0.007
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/Cat_poster_1.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.004
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/2560px-Felis_silvestris_catus_lying_on_rice_straw.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.001
+            },
+            {
+              "class": "husky",
+              "score": 0.005
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/HappyBarnCat.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.001
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.022
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.004
+            },
+            {
+              "class": "husky",
+              "score": 0.049
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/Kittyply_edit1.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/TapetumLucidum.JPG",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/Domestic_Cat_Face_Shot.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0
+            },
+            {
+              "class": "dalmatian",
+              "score": 0
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0
+            },
+            {
+              "class": "husky",
+              "score": 0
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    },
+    {
+      "image": "cats_0.zip/cats_0/1920px-Cat_birds_MAN_Napoli_Inv9993.jpg",
+      "classifiers": [
+        {
+          "classes": [
+            {
+              "class": "beagle",
+              "score": 0.006
+            },
+            {
+              "class": "dalmatian",
+              "score": 0.089
+            },
+            {
+              "class": "goldenretriever",
+              "score": 0.002
+            },
+            {
+              "class": "husky",
+              "score": 0.004
+            }
+          ],
+          "name": "dogs",
+          "classifier_id": "dogs_1172125986"
+        }
+      ]
+    }
+  ],
+  "custom_classes": 4
+}
+
+Metrics for each label:
+husky:
+  hit rate = 0.80000
+  mean score for hits = 0.86638
+  mean score for misses = 0.65850
+dalmatian:
+  hit rate = 0.80000
+  mean score for hits = 0.90563
+  mean score for misses = 0.26350
+none (max score <= 0.6):
+  hit rate = 0.80000
+  mean score for hits = 0.01792
+  mean score for misses = 0.85000
+golden retriever:
+  hit rate = 1.00000
+  mean score for hits = 0.90270
+  mean score for misses = nan
+beagle:
+  hit rate = 0.80000
+  mean score for hits = 0.90663
+  mean score for misses = 0.78300

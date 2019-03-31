@@ -1,0 +1,923 @@
+
+Classifying image: extra_photos/tulips/1024px-Tulipa_Carneval_de_Nice.JPG
+tulips (score = 0.93148)
+roses (score = 0.05771)
+daisy (score = 0.00514)
+dandelion (score = 0.00438)
+sunflowers (score = 0.00130)
+
+Classifying image: extra_photos/tulips/1024px-Tulipa_Gavota_(1).jpg
+tulips (score = 0.92930)
+roses (score = 0.03820)
+sunflowers (score = 0.02263)
+daisy (score = 0.00790)
+dandelion (score = 0.00196)
+
+Classifying image: extra_photos/tulips/1280px-Tulipa_aucheriana_240408.jpg
+tulips (score = 0.83864)
+roses (score = 0.08770)
+sunflowers (score = 0.03535)
+daisy (score = 0.03092)
+dandelion (score = 0.00739)
+
+Classifying image: extra_photos/tulips/1920px-Tulip_Gavota.jpg
+roses (score = 0.69083)
+tulips (score = 0.30592)
+dandelion (score = 0.00170)
+sunflowers (score = 0.00127)
+daisy (score = 0.00028)
+WRONG ANSWER! Correct answer is "tulips".
+
+Classifying image: extra_photos/tulips/2560px-The_Dallas_Arboretum_and_Botanical_Garden.jpg
+tulips (score = 0.90896)
+sunflowers (score = 0.05938)
+daisy (score = 0.02396)
+dandelion (score = 0.00456)
+roses (score = 0.00314)
+
+Classifying image: extra_photos/tulips/2560px-Tulip_Tulipa_'Juan'_Flower_2836px.jpg
+tulips (score = 0.69363)
+roses (score = 0.27126)
+sunflowers (score = 0.02755)
+dandelion (score = 0.00491)
+daisy (score = 0.00265)
+
+Classifying image: extra_photos/tulips/2560px-צבעונים.JPG
+tulips (score = 0.97354)
+daisy (score = 0.00838)
+roses (score = 0.00733)
+sunflowers (score = 0.00644)
+dandelion (score = 0.00431)
+
+Classifying image: extra_photos/tulips/Holland_tulips.jpg
+tulips (score = 0.94907)
+sunflowers (score = 0.03864)
+roses (score = 0.00740)
+dandelion (score = 0.00405)
+daisy (score = 0.00084)
+
+Classifying image: extra_photos/tulips/Kvetoucí_tulipán.jpg
+tulips (score = 0.76062)
+roses (score = 0.21046)
+sunflowers (score = 0.02296)
+dandelion (score = 0.00525)
+daisy (score = 0.00072)
+
+Classifying image: extra_photos/tulips/Liliales_-_Tulipa_single_late_'Kingsblood'_2_-_2011.05.09.jpg
+tulips (score = 0.90816)
+roses (score = 0.08068)
+sunflowers (score = 0.00986)
+daisy (score = 0.00081)
+dandelion (score = 0.00050)
+
+Classifying image: extra_photos/tulips/Tulip_Tulipa_clusiana_'Lady_Jane'_Rock_Ledge_Flower_2000px.jpg
+tulips (score = 0.69938)
+roses (score = 0.25252)
+dandelion (score = 0.02441)
+sunflowers (score = 0.01386)
+daisy (score = 0.00982)
+
+Classifying image: extra_photos/tulips/Tulip_with_variegated_colors.jpg
+tulips (score = 0.86298)
+roses (score = 0.13290)
+dandelion (score = 0.00168)
+daisy (score = 0.00144)
+sunflowers (score = 0.00099)
+
+Classifying image: extra_photos/tulips/Tulipa_'Apricot_Beauty'_2015_06.jpg
+tulips (score = 0.69181)
+roses (score = 0.22764)
+dandelion (score = 0.07376)
+daisy (score = 0.00509)
+sunflowers (score = 0.00169)
+
+Classifying image: extra_photos/tulips/Tulipa_'Balerina'_a1.jpg
+tulips (score = 0.96746)
+roses (score = 0.01860)
+sunflowers (score = 0.01283)
+dandelion (score = 0.00089)
+daisy (score = 0.00022)
+
+Classifying image: extra_photos/tulips/Tulipa_'Fancy_frills',_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg
+roses (score = 0.91735)
+dandelion (score = 0.04887)
+tulips (score = 0.02284)
+sunflowers (score = 0.00720)
+daisy (score = 0.00375)
+WRONG ANSWER! Correct answer is "tulips".
+
+Classifying image: extra_photos/tulips/Tulipa_Angelique.jpg
+tulips (score = 0.88510)
+roses (score = 0.10937)
+sunflowers (score = 0.00359)
+daisy (score = 0.00111)
+dandelion (score = 0.00084)
+
+Classifying image: extra_photos/tulips/Tulipa_batalinii_Bright_Gem_habitus1.jpg
+tulips (score = 0.78094)
+roses (score = 0.16549)
+dandelion (score = 0.02476)
+sunflowers (score = 0.01706)
+daisy (score = 0.01175)
+
+Classifying image: extra_photos/tulips/Tulipa_Black_Parrot.JPG
+tulips (score = 0.66938)
+roses (score = 0.31617)
+dandelion (score = 0.01187)
+sunflowers (score = 0.00189)
+daisy (score = 0.00070)
+
+Classifying image: extra_photos/tulips/Tulipa_Blue_Heron.jpg
+tulips (score = 0.92864)
+roses (score = 0.05081)
+sunflowers (score = 0.01202)
+daisy (score = 0.00558)
+dandelion (score = 0.00294)
+
+Classifying image: extra_photos/tulips/Tulipa_Culivars_T_praestans_Fuselier_01HD.jpg
+tulips (score = 0.96475)
+roses (score = 0.03305)
+sunflowers (score = 0.00212)
+dandelion (score = 0.00006)
+daisy (score = 0.00002)
+
+Classifying image: extra_photos/tulips/Tulipa_Daydream.jpg
+tulips (score = 0.86946)
+roses (score = 0.10679)
+sunflowers (score = 0.01934)
+dandelion (score = 0.00302)
+daisy (score = 0.00139)
+
+Classifying image: extra_photos/tulips/Tulipa_Dordogne.jpg
+tulips (score = 0.99054)
+roses (score = 0.00938)
+dandelion (score = 0.00004)
+sunflowers (score = 0.00003)
+daisy (score = 0.00000)
+
+Classifying image: extra_photos/tulips/Tulipa_kaufmanniana_-_tulipe_ancilia_-_parc_floral_Paris.JPG
+tulips (score = 0.59365)
+sunflowers (score = 0.26948)
+daisy (score = 0.12008)
+dandelion (score = 0.00938)
+roses (score = 0.00741)
+
+Classifying image: extra_photos/tulips/Tulipa_orphanidea_060506.jpg
+tulips (score = 0.88483)
+roses (score = 0.08299)
+dandelion (score = 0.01547)
+daisy (score = 0.01038)
+sunflowers (score = 0.00633)
+
+Classifying image: extra_photos/tulips/Yonina_Tulip.jpg
+tulips (score = 0.95617)
+roses (score = 0.03330)
+sunflowers (score = 0.00611)
+daisy (score = 0.00237)
+dandelion (score = 0.00206)
+
+Classifying image: extra_photos/roses/1024px-Rosa_'Alister_Stella_Gray'.jpg
+dandelion (score = 0.62463)
+roses (score = 0.20205)
+sunflowers (score = 0.13766)
+daisy (score = 0.02279)
+tulips (score = 0.01287)
+WRONG ANSWER! Correct answer is "roses".
+
+Classifying image: extra_photos/roses/1920px-Bobbie_James;_Rose_d1.jpg
+sunflowers (score = 0.43630)
+roses (score = 0.28853)
+dandelion (score = 0.15062)
+tulips (score = 0.10056)
+daisy (score = 0.02399)
+WRONG ANSWER! Correct answer is "roses".
+
+Classifying image: extra_photos/roses/1920px-Rosa_'Rosengräfin_Marie_Henriette'_(actm).jpg
+roses (score = 0.99831)
+tulips (score = 0.00158)
+sunflowers (score = 0.00008)
+daisy (score = 0.00001)
+dandelion (score = 0.00001)
+
+Classifying image: extra_photos/roses/1920px-Rose,_Bleu_Magenta_(10760213494).jpg
+roses (score = 0.94579)
+tulips (score = 0.04527)
+dandelion (score = 0.00780)
+sunflowers (score = 0.00092)
+daisy (score = 0.00023)
+
+Classifying image: extra_photos/roses/2560px-Rapperswil_-_Duftrosengarten_-_Harmonie_Aloha_Str._Boerner_1949_2010-08-29_16-06-44.JPG
+roses (score = 0.99895)
+tulips (score = 0.00098)
+sunflowers (score = 0.00006)
+dandelion (score = 0.00000)
+daisy (score = 0.00000)
+
+Classifying image: extra_photos/roses/2560px-Rose_Alberic_Barbier_20070601.jpg
+roses (score = 0.99453)
+tulips (score = 0.00401)
+sunflowers (score = 0.00084)
+dandelion (score = 0.00041)
+daisy (score = 0.00021)
+
+Classifying image: extra_photos/roses/2560px-Rose_Alexandre_Girault_20070601.jpg
+roses (score = 0.99121)
+tulips (score = 0.00759)
+sunflowers (score = 0.00087)
+dandelion (score = 0.00023)
+daisy (score = 0.00009)
+
+Classifying image: extra_photos/roses/Aphrodite_(Tantau_2006).JPG
+roses (score = 0.99150)
+tulips (score = 0.00795)
+sunflowers (score = 0.00048)
+daisy (score = 0.00006)
+dandelion (score = 0.00001)
+
+Classifying image: extra_photos/roses/Arthur_Bell_by_Roger.jpg
+roses (score = 0.99335)
+tulips (score = 0.00469)
+sunflowers (score = 0.00117)
+dandelion (score = 0.00072)
+daisy (score = 0.00007)
+
+Classifying image: extra_photos/roses/Bouquet_de_roses_roses.jpg
+roses (score = 0.99708)
+dandelion (score = 0.00222)
+tulips (score = 0.00043)
+sunflowers (score = 0.00017)
+daisy (score = 0.00011)
+
+Classifying image: extra_photos/roses/Julia-child-rose.jpg
+roses (score = 0.96468)
+tulips (score = 0.03315)
+sunflowers (score = 0.00175)
+dandelion (score = 0.00036)
+daisy (score = 0.00006)
+
+Classifying image: extra_photos/roses/Pacific-dream-bleu-ardoise375.jpg
+roses (score = 0.96426)
+tulips (score = 0.03215)
+sunflowers (score = 0.00294)
+dandelion (score = 0.00053)
+daisy (score = 0.00013)
+
+Classifying image: extra_photos/roses/Rapperswil_-_Duftrosengarten_-_Harmonie_Aloha_Str._Boerner_1949_2010-08-29_16-06-44.JPG
+roses (score = 0.99891)
+tulips (score = 0.00105)
+sunflowers (score = 0.00003)
+dandelion (score = 0.00000)
+daisy (score = 0.00000)
+
+Classifying image: extra_photos/roses/Rosa_'A_Whiter_Shade_of_Pale'.jpg
+roses (score = 0.94325)
+daisy (score = 0.02484)
+tulips (score = 0.01980)
+sunflowers (score = 0.00663)
+dandelion (score = 0.00548)
+
+Classifying image: extra_photos/roses/Rosa_'Ballerina'_J1.JPG
+roses (score = 0.80042)
+tulips (score = 0.12118)
+sunflowers (score = 0.06834)
+dandelion (score = 0.00903)
+daisy (score = 0.00102)
+
+Classifying image: extra_photos/roses/Rosa_'Blanc_Double_de_Coubert'.jpg
+roses (score = 0.47788)
+daisy (score = 0.31727)
+sunflowers (score = 0.12096)
+dandelion (score = 0.04822)
+tulips (score = 0.03566)
+
+Classifying image: extra_photos/roses/Rosa_'Semi-plena'.jpg
+roses (score = 0.45479)
+daisy (score = 0.28409)
+sunflowers (score = 0.16350)
+dandelion (score = 0.06655)
+tulips (score = 0.03106)
+
+Classifying image: extra_photos/roses/Rosa_Adelaide_dOrleans_1.jpg
+roses (score = 0.87727)
+tulips (score = 0.04589)
+sunflowers (score = 0.03629)
+dandelion (score = 0.02358)
+daisy (score = 0.01697)
+
+Classifying image: extra_photos/roses/Rosa_banksiae_'Lutea'.jpg
+sunflowers (score = 0.87591)
+tulips (score = 0.06034)
+dandelion (score = 0.05178)
+roses (score = 0.01049)
+daisy (score = 0.00149)
+WRONG ANSWER! Correct answer is "roses".
+
+Classifying image: extra_photos/roses/Rosa_cultivar_Bonica_82_3.JPG
+roses (score = 0.97862)
+tulips (score = 0.02114)
+sunflowers (score = 0.00021)
+daisy (score = 0.00002)
+dandelion (score = 0.00000)
+
+Classifying image: extra_photos/roses/Rosa_Prinz_Eugen_2010.jpg
+roses (score = 0.84675)
+tulips (score = 0.13761)
+dandelion (score = 0.01173)
+daisy (score = 0.00272)
+sunflowers (score = 0.00120)
+
+Classifying image: extra_photos/roses/Rosa_rubiginosa_1.jpg
+sunflowers (score = 0.65785)
+daisy (score = 0.13729)
+tulips (score = 0.12111)
+dandelion (score = 0.04906)
+roses (score = 0.03470)
+WRONG ANSWER! Correct answer is "roses".
+
+Classifying image: extra_photos/roses/Rosa_sp.21.jpg
+roses (score = 0.98994)
+tulips (score = 0.00952)
+sunflowers (score = 0.00050)
+dandelion (score = 0.00002)
+daisy (score = 0.00002)
+
+Classifying image: extra_photos/roses/Roses_Boutons_FR_2012.jpg
+roses (score = 0.87570)
+sunflowers (score = 0.04421)
+tulips (score = 0.04173)
+dandelion (score = 0.02207)
+daisy (score = 0.01629)
+
+Classifying image: extra_photos/roses/The_Alexander_Rose.jpg
+roses (score = 0.97758)
+tulips (score = 0.02211)
+sunflowers (score = 0.00022)
+dandelion (score = 0.00007)
+daisy (score = 0.00002)
+
+Classifying image: extra_photos/dandelion/05.2010_löwenzahn_018be_wp.jpg
+dandelion (score = 0.77165)
+daisy (score = 0.13359)
+sunflowers (score = 0.08925)
+roses (score = 0.00278)
+tulips (score = 0.00272)
+
+Classifying image: extra_photos/dandelion/2560px-Желтое_море._Чистопольский_р-н._РТ._Май_2014_-_panoramio.jpg
+sunflowers (score = 0.56384)
+tulips (score = 0.31303)
+dandelion (score = 0.11953)
+roses (score = 0.00347)
+daisy (score = 0.00013)
+WRONG ANSWER! Correct answer is "dandelion".
+
+Classifying image: extra_photos/dandelion/338px-Dandelion12.jpg
+dandelion (score = 0.99934)
+sunflowers (score = 0.00025)
+roses (score = 0.00016)
+tulips (score = 0.00014)
+daisy (score = 0.00010)
+
+Classifying image: extra_photos/dandelion/430px-Dandelion_2007.jpg
+dandelion (score = 0.70150)
+sunflowers (score = 0.27092)
+daisy (score = 0.01928)
+tulips (score = 0.00690)
+roses (score = 0.00140)
+
+Classifying image: extra_photos/dandelion/857262_832260226787387_8481964766776603935_o.jpg
+dandelion (score = 0.97677)
+sunflowers (score = 0.01111)
+tulips (score = 0.00623)
+daisy (score = 0.00569)
+roses (score = 0.00019)
+
+Classifying image: extra_photos/dandelion/Abant_2.JPG
+sunflowers (score = 0.47483)
+dandelion (score = 0.41282)
+daisy (score = 0.11019)
+tulips (score = 0.00145)
+roses (score = 0.00070)
+WRONG ANSWER! Correct answer is "dandelion".
+
+Classifying image: extra_photos/dandelion/Abant_3.JPG
+dandelion (score = 0.87932)
+sunflowers (score = 0.08889)
+daisy (score = 0.03104)
+tulips (score = 0.00052)
+roses (score = 0.00022)
+
+Classifying image: extra_photos/dandelion/Asterales_-_Taraxacum_officinale_-_London_1.jpg
+dandelion (score = 0.94745)
+sunflowers (score = 0.03320)
+roses (score = 0.00897)
+tulips (score = 0.00636)
+daisy (score = 0.00403)
+
+Classifying image: extra_photos/dandelion/Common_Dandelion_(Taraxacum_officinale)_02.jpg
+dandelion (score = 0.97643)
+sunflowers (score = 0.01346)
+daisy (score = 0.00865)
+tulips (score = 0.00146)
+roses (score = 0.00002)
+
+Classifying image: extra_photos/dandelion/Common_Dandelion_(Taraxacum_officinale)_03.jpg
+dandelion (score = 0.62942)
+sunflowers (score = 0.22654)
+daisy (score = 0.12161)
+tulips (score = 0.02075)
+roses (score = 0.00168)
+
+Classifying image: extra_photos/dandelion/Common_Dandelion_(Taraxacum_officinale)_and_White_Clover_(Trifolium_repens)_(10617162044).jpg
+dandelion (score = 0.98153)
+sunflowers (score = 0.01570)
+daisy (score = 0.00157)
+tulips (score = 0.00093)
+roses (score = 0.00027)
+
+Classifying image: extra_photos/dandelion/Dandelion_(Taraxacum_officinale)_(4573977175).jpg
+tulips (score = 0.37417)
+daisy (score = 0.21824)
+dandelion (score = 0.17002)
+sunflowers (score = 0.14359)
+roses (score = 0.09398)
+WRONG ANSWER! Correct answer is "dandelion".
+
+Classifying image: extra_photos/dandelion/Dandelion_(Taraxacum_officinale)_X_(3415345292).jpg
+dandelion (score = 0.99616)
+sunflowers (score = 0.00195)
+daisy (score = 0.00132)
+tulips (score = 0.00047)
+roses (score = 0.00010)
+
+Classifying image: extra_photos/dandelion/Dandelion_(Taraxacum_officinale)_X_(4540615600).jpg
+dandelion (score = 0.96831)
+sunflowers (score = 0.02398)
+daisy (score = 0.00735)
+roses (score = 0.00029)
+tulips (score = 0.00007)
+
+Classifying image: extra_photos/dandelion/DandelionFlower (1).jpg
+dandelion (score = 0.96125)
+sunflowers (score = 0.03262)
+daisy (score = 0.00269)
+roses (score = 0.00187)
+tulips (score = 0.00158)
+
+Classifying image: extra_photos/dandelion/DandelionFlower.jpg
+dandelion (score = 0.96125)
+sunflowers (score = 0.03262)
+daisy (score = 0.00269)
+roses (score = 0.00187)
+tulips (score = 0.00158)
+
+Classifying image: extra_photos/dandelion/Eightyfivedandelion.JPG
+dandelion (score = 0.86964)
+daisy (score = 0.08894)
+tulips (score = 0.02608)
+roses (score = 0.01253)
+sunflowers (score = 0.00280)
+
+Classifying image: extra_photos/dandelion/T_albidum01.jpg
+daisy (score = 0.95189)
+dandelion (score = 0.01666)
+sunflowers (score = 0.01615)
+tulips (score = 0.01312)
+roses (score = 0.00218)
+WRONG ANSWER! Correct answer is "dandelion".
+
+Classifying image: extra_photos/dandelion/T_japonicum04.jpg
+dandelion (score = 0.64612)
+sunflowers (score = 0.22344)
+tulips (score = 0.09467)
+roses (score = 0.02213)
+daisy (score = 0.01365)
+
+Classifying image: extra_photos/dandelion/Taraxacum_laevigatum_Closeup_DehesaBoyaldePuertollano.jpg
+dandelion (score = 0.94538)
+daisy (score = 0.02416)
+sunflowers (score = 0.02349)
+roses (score = 0.00566)
+tulips (score = 0.00131)
+
+Classifying image: extra_photos/dandelion/Taraxacum_officinale_masovia01.jpg
+sunflowers (score = 0.70797)
+tulips (score = 0.17621)
+dandelion (score = 0.11253)
+roses (score = 0.00317)
+daisy (score = 0.00012)
+WRONG ANSWER! Correct answer is "dandelion".
+
+Classifying image: extra_photos/dandelion/Taraxacum_platycarpum_01.JPG
+dandelion (score = 0.85420)
+daisy (score = 0.07088)
+sunflowers (score = 0.04580)
+roses (score = 0.02412)
+tulips (score = 0.00502)
+
+Classifying image: extra_photos/dandelion/Taraxacumcalifornicum.jpg
+daisy (score = 0.58397)
+tulips (score = 0.31148)
+dandelion (score = 0.07663)
+sunflowers (score = 0.01833)
+roses (score = 0.00960)
+WRONG ANSWER! Correct answer is "dandelion".
+
+Classifying image: extra_photos/dandelion/Taraxacumerythrospermum.jpg
+dandelion (score = 0.99803)
+daisy (score = 0.00106)
+sunflowers (score = 0.00054)
+tulips (score = 0.00025)
+roses (score = 0.00012)
+
+Classifying image: extra_photos/dandelion/TaraxacumOfficinaleSeed.JPG
+dandelion (score = 0.99955)
+daisy (score = 0.00021)
+tulips (score = 0.00012)
+sunflowers (score = 0.00010)
+roses (score = 0.00002)
+
+Classifying image: extra_photos/sunflowers/1280px-Side_rear_view_of_Sunflower_head-_Helianthus.JPG
+sunflowers (score = 0.66835)
+dandelion (score = 0.22197)
+daisy (score = 0.06310)
+tulips (score = 0.04061)
+roses (score = 0.00598)
+
+Classifying image: extra_photos/sunflowers/1280px-Vincent_Willem_van_Gogh_127.jpg
+roses (score = 0.46167)
+sunflowers (score = 0.19512)
+tulips (score = 0.16925)
+dandelion (score = 0.10556)
+daisy (score = 0.06841)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/1280px-Vincent_Willem_van_Gogh_128.jpg
+sunflowers (score = 0.70804)
+dandelion (score = 0.21845)
+roses (score = 0.05130)
+daisy (score = 0.01144)
+tulips (score = 0.01077)
+
+Classifying image: extra_photos/sunflowers/1920px-Helianthus_petiolaris_(7161930155).jpg
+sunflowers (score = 0.53614)
+dandelion (score = 0.17887)
+daisy (score = 0.17247)
+tulips (score = 0.10492)
+roses (score = 0.00759)
+
+Classifying image: extra_photos/sunflowers/2017-07-15_Ono-himawarino-oka-park_(小野市立ひまわりの丘公園)_☆彡11.jpg
+sunflowers (score = 0.78590)
+dandelion (score = 0.10465)
+roses (score = 0.08074)
+tulips (score = 0.02376)
+daisy (score = 0.00495)
+
+Classifying image: extra_photos/sunflowers/2017-07-15_Ono-himawarino-oka-park_(小野市立ひまわりの丘公園)_☆彡6.jpg
+sunflowers (score = 0.80536)
+dandelion (score = 0.13995)
+roses (score = 0.04035)
+tulips (score = 0.00943)
+daisy (score = 0.00491)
+
+Classifying image: extra_photos/sunflowers/2560px-A_sunflower,_Myanmar.jpg
+sunflowers (score = 0.85664)
+daisy (score = 0.09904)
+dandelion (score = 0.04007)
+tulips (score = 0.00302)
+roses (score = 0.00124)
+
+Classifying image: extra_photos/sunflowers/2560px-HelianthusTuberosus.jpg
+daisy (score = 0.47719)
+sunflowers (score = 0.44286)
+tulips (score = 0.04801)
+dandelion (score = 0.03041)
+roses (score = 0.00153)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/2560px-SunflowerSunset2.jpg
+sunflowers (score = 0.93706)
+tulips (score = 0.03496)
+dandelion (score = 0.02433)
+roses (score = 0.00238)
+daisy (score = 0.00127)
+
+Classifying image: extra_photos/sunflowers/A_Collection_of_Flowers_from_Ooty031.jpg
+daisy (score = 0.69442)
+sunflowers (score = 0.28694)
+tulips (score = 0.01015)
+dandelion (score = 0.00733)
+roses (score = 0.00116)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/Helianthus_annuus_(cultivar)_02.jpg
+sunflowers (score = 0.90123)
+dandelion (score = 0.08444)
+roses (score = 0.00932)
+daisy (score = 0.00370)
+tulips (score = 0.00130)
+
+Classifying image: extra_photos/sunflowers/Helianthus_annuus_-_flower_view_01.jpg
+sunflowers (score = 0.60807)
+daisy (score = 0.30133)
+dandelion (score = 0.08421)
+tulips (score = 0.00597)
+roses (score = 0.00041)
+
+Classifying image: extra_photos/sunflowers/Helianthus_annuus_prado_red.jpg
+sunflowers (score = 0.96117)
+daisy (score = 0.02512)
+dandelion (score = 0.00854)
+roses (score = 0.00317)
+tulips (score = 0.00200)
+
+Classifying image: extra_photos/sunflowers/Helianthus_decapetalus_'Plenus'.jpg
+sunflowers (score = 0.66759)
+daisy (score = 0.19090)
+tulips (score = 0.07521)
+dandelion (score = 0.06082)
+roses (score = 0.00548)
+
+Classifying image: extra_photos/sunflowers/Helianthus_giganteus.jpg
+dandelion (score = 0.43426)
+sunflowers (score = 0.39490)
+tulips (score = 0.16286)
+roses (score = 0.00427)
+daisy (score = 0.00370)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/Helianthus_whorl.jpg
+daisy (score = 0.80864)
+sunflowers (score = 0.18883)
+dandelion (score = 0.00230)
+tulips (score = 0.00018)
+roses (score = 0.00004)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/Helianthus_x_laetiflorus_001.JPG
+daisy (score = 0.97026)
+sunflowers (score = 0.02639)
+dandelion (score = 0.00273)
+tulips (score = 0.00055)
+roses (score = 0.00007)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/I-40W-Sunflowers.jpg
+sunflowers (score = 0.93769)
+daisy (score = 0.04485)
+dandelion (score = 0.01161)
+tulips (score = 0.00580)
+roses (score = 0.00005)
+
+Classifying image: extra_photos/sunflowers/Red_sunflower.jpg
+sunflowers (score = 0.80648)
+daisy (score = 0.16385)
+dandelion (score = 0.02337)
+tulips (score = 0.00589)
+roses (score = 0.00042)
+
+Classifying image: extra_photos/sunflowers/Six_Sunflowers_1888.jpg
+sunflowers (score = 0.54675)
+roses (score = 0.24545)
+dandelion (score = 0.09010)
+tulips (score = 0.08943)
+daisy (score = 0.02826)
+
+Classifying image: extra_photos/sunflowers/Sunflower3-2012.jpg
+sunflowers (score = 0.92567)
+daisy (score = 0.03239)
+dandelion (score = 0.02514)
+tulips (score = 0.01188)
+roses (score = 0.00491)
+
+Classifying image: extra_photos/sunflowers/Sunflower__Strawberry_Blonde__(3931552086).jpg
+daisy (score = 0.53388)
+sunflowers (score = 0.42422)
+dandelion (score = 0.03809)
+tulips (score = 0.00356)
+roses (score = 0.00026)
+WRONG ANSWER! Correct answer is "sunflowers".
+
+Classifying image: extra_photos/sunflowers/Sunflower_oil_and_sunflower.jpg
+sunflowers (score = 0.97049)
+daisy (score = 0.01803)
+dandelion (score = 0.00555)
+tulips (score = 0.00340)
+roses (score = 0.00253)
+
+Classifying image: extra_photos/sunflowers/Sunflower_sky_backdrop.jpg
+sunflowers (score = 0.73353)
+daisy (score = 0.25371)
+dandelion (score = 0.00779)
+tulips (score = 0.00475)
+roses (score = 0.00023)
+
+Classifying image: extra_photos/sunflowers/Vincent_Van_Gogh_-_Three_Sunflowers_F453.jpg
+sunflowers (score = 0.35645)
+tulips (score = 0.33515)
+roses (score = 0.23723)
+daisy (score = 0.05846)
+dandelion (score = 0.01271)
+
+Classifying image: extra_photos/daisy/1024px-Leptosyne_bigelovii_7749.JPG
+sunflowers (score = 0.61044)
+daisy (score = 0.19612)
+dandelion (score = 0.12334)
+tulips (score = 0.06531)
+roses (score = 0.00478)
+WRONG ANSWER! Correct answer is "daisy".
+
+Classifying image: extra_photos/daisy/1024px-Leptosyne_bigelovii_7751.JPG
+daisy (score = 0.91980)
+dandelion (score = 0.06106)
+sunflowers (score = 0.01327)
+tulips (score = 0.00507)
+roses (score = 0.00079)
+
+Classifying image: extra_photos/daisy/1280px-Glebionis_February_2008-1.jpg
+daisy (score = 0.99141)
+dandelion (score = 0.00593)
+sunflowers (score = 0.00210)
+tulips (score = 0.00041)
+roses (score = 0.00015)
+
+Classifying image: extra_photos/daisy/1920px-Brachyscome_iberidifolia_-_Flickr_-_Kevin_Thiele.jpg
+daisy (score = 0.97458)
+sunflowers (score = 0.01256)
+dandelion (score = 0.00671)
+tulips (score = 0.00498)
+roses (score = 0.00117)
+
+Classifying image: extra_photos/daisy/1920px-Crown_daisy_-_Glebionis_coronarium.jpg
+sunflowers (score = 0.65378)
+daisy (score = 0.23899)
+dandelion (score = 0.10255)
+tulips (score = 0.00445)
+roses (score = 0.00022)
+WRONG ANSWER! Correct answer is "daisy".
+
+Classifying image: extra_photos/daisy/1920px-Daisy_Marguerite_--_Argyranthemum.jpg
+daisy (score = 0.98612)
+sunflowers (score = 0.01160)
+dandelion (score = 0.00193)
+tulips (score = 0.00027)
+roses (score = 0.00008)
+
+Classifying image: extra_photos/daisy/1920px-Erigeron_glaucus_Ker-Gawl.-2F.JPG
+daisy (score = 0.88744)
+sunflowers (score = 0.08426)
+tulips (score = 0.02058)
+dandelion (score = 0.00758)
+roses (score = 0.00014)
+
+Classifying image: extra_photos/daisy/1920px-Glebionis_coronarium.jpg
+sunflowers (score = 0.46520)
+dandelion (score = 0.33965)
+tulips (score = 0.19321)
+roses (score = 0.00110)
+daisy (score = 0.00083)
+WRONG ANSWER! Correct answer is "daisy".
+
+Classifying image: extra_photos/daisy/1920px-Leucanthemum_vulgare_infestation.jpg
+tulips (score = 0.57899)
+roses (score = 0.31380)
+daisy (score = 0.04830)
+dandelion (score = 0.03980)
+sunflowers (score = 0.01911)
+WRONG ANSWER! Correct answer is "daisy".
+
+Classifying image: extra_photos/daisy/1920px-Marienblümchen_Ende_März_2014_(163).JPG
+daisy (score = 0.99629)
+sunflowers (score = 0.00211)
+dandelion (score = 0.00119)
+tulips (score = 0.00035)
+roses (score = 0.00005)
+
+Classifying image: extra_photos/daisy/2560px-Asteraceae_erigeron_glaucus_Seaside_Daisy.jpg
+daisy (score = 0.97786)
+sunflowers (score = 0.02064)
+dandelion (score = 0.00139)
+tulips (score = 0.00009)
+roses (score = 0.00002)
+
+Classifying image: extra_photos/daisy/2560px-Seaside_Fleabean_-_Erigeron_glaucus_(42542144524).jpg
+daisy (score = 0.67344)
+sunflowers (score = 0.22176)
+dandelion (score = 0.08907)
+tulips (score = 0.01377)
+roses (score = 0.00195)
+
+Classifying image: extra_photos/daisy/A_Gaenseblume4.JPG
+daisy (score = 0.99776)
+sunflowers (score = 0.00116)
+dandelion (score = 0.00081)
+tulips (score = 0.00026)
+roses (score = 0.00001)
+
+Classifying image: extra_photos/daisy/Argyranthemum_frutescens_cv_Vera_1.jpg
+daisy (score = 0.99120)
+sunflowers (score = 0.00686)
+dandelion (score = 0.00173)
+tulips (score = 0.00020)
+roses (score = 0.00001)
+
+Classifying image: extra_photos/daisy/Argyranthemum_frutescens_subsp._canariae.JPG
+daisy (score = 0.99790)
+sunflowers (score = 0.00178)
+dandelion (score = 0.00030)
+tulips (score = 0.00003)
+roses (score = 0.00000)
+
+Classifying image: extra_photos/daisy/Argyranthemumhaouarytheum.jpg
+daisy (score = 0.99156)
+sunflowers (score = 0.00468)
+dandelion (score = 0.00300)
+tulips (score = 0.00061)
+roses (score = 0.00015)
+
+Classifying image: extra_photos/daisy/Asteracea_poster.jpg
+daisy (score = 0.97192)
+sunflowers (score = 0.01867)
+dandelion (score = 0.00599)
+tulips (score = 0.00336)
+roses (score = 0.00005)
+
+Classifying image: extra_photos/daisy/Beach_Aster.jpg
+sunflowers (score = 0.62699)
+daisy (score = 0.35868)
+tulips (score = 0.00749)
+dandelion (score = 0.00651)
+roses (score = 0.00032)
+WRONG ANSWER! Correct answer is "daisy".
+
+Classifying image: extra_photos/daisy/Daisy_Gänseblümchen_Bellis_perennis_01.jpg
+daisy (score = 0.99569)
+sunflowers (score = 0.00319)
+dandelion (score = 0.00097)
+tulips (score = 0.00010)
+roses (score = 0.00004)
+
+Classifying image: extra_photos/daisy/Erigeron_Glaucus.jpg
+daisy (score = 0.94051)
+sunflowers (score = 0.04390)
+dandelion (score = 0.01159)
+tulips (score = 0.00358)
+roses (score = 0.00042)
+
+Classifying image: extra_photos/daisy/Glebionis_coronaria.jpg
+sunflowers (score = 0.70535)
+daisy (score = 0.24456)
+dandelion (score = 0.03170)
+tulips (score = 0.01667)
+roses (score = 0.00172)
+WRONG ANSWER! Correct answer is "daisy".
+
+Classifying image: extra_photos/daisy/Glebionis_coronarium_Habitus_Miguelturra.jpg
+daisy (score = 0.98355)
+sunflowers (score = 0.01609)
+dandelion (score = 0.00032)
+tulips (score = 0.00004)
+roses (score = 0.00000)
+
+Classifying image: extra_photos/daisy/Glebonis_carinata.jpg
+daisy (score = 0.67271)
+sunflowers (score = 0.31440)
+tulips (score = 0.00886)
+dandelion (score = 0.00321)
+roses (score = 0.00081)
+
+Classifying image: extra_photos/daisy/Leucanthemum_vulgare_'Filigran'_Flower_2200px.jpg
+daisy (score = 0.99365)
+sunflowers (score = 0.00463)
+dandelion (score = 0.00146)
+tulips (score = 0.00020)
+roses (score = 0.00005)
+
+Classifying image: extra_photos/daisy/Leucanthemum_vulgare_ENBLA03.JPG
+daisy (score = 0.90335)
+sunflowers (score = 0.07663)
+tulips (score = 0.01015)
+dandelion (score = 0.00747)
+roses (score = 0.00241)
+
+Metrics for each label:
+daisy:
+  hit rate = 0.76000
+  mean score for hits = 0.93930
+  mean score for misses = 0.60679
+tulips:
+  hit rate = 0.92000
+  mean score for hits = 0.85385
+  mean score for misses = 0.80409
+dandelion:
+  hit rate = 0.76000
+  mean score for hits = 0.89807
+  mean score for misses = 0.60945
+sunflowers:
+  hit rate = 0.72000
+  mean score for hits = 0.76181
+  mean score for misses = 0.62576
+roses:
+  hit rate = 0.84000
+  mean score for hits = 0.90766
+  mean score for misses = 0.64867
+

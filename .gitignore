@@ -1,0 +1,16 @@
+# Windows metafiles
+Thumbs.db
+
+# Mac metafiles
+._*
+.DS_Store
+
+# Python bytecode
+*.pyc
+
+# TensorFlow Inception training output
+TensorFlowInception/*/output_graph.pb
+TensorFlowInception/*/output_labels.txt
+TensorFlowInception/*/logs
+TensorFlowInception/*/bottleneck
+TensorFlowInception/*/retrain.log
