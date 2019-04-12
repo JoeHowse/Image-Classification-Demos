@@ -9,8 +9,8 @@ Thumbs.db
 *.pyc
 
 # TensorFlow Inception training output
-TensorFlowInception/*/output_graph.pb
-TensorFlowInception/*/output_labels.txt
+#TensorFlowInception/*/output_graph.pb
+#TensorFlowInception/*/output_labels.txt
 TensorFlowInception/*/logs
 TensorFlowInception/*/bottleneck
 TensorFlowInception/*/retrain.log
