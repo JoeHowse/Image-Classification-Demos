@@ -8,6 +8,9 @@ Thumbs.db
 # Python bytecode
 *.pyc
 
+# PyCharm projects
+.idea
+
 # TensorFlow Inception training output
 #TensorFlowInception/*/output_graph.pb
 #TensorFlowInception/*/output_labels.txt

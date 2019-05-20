@@ -4,7 +4,7 @@
 from __future__ import print_function
 import json
 import os
-from watson_developer_cloud import VisualRecognitionV3, WatsonApiException
+from ibm_watson import VisualRecognitionV3, ApiException
 
 
 def main():
@@ -45,7 +45,7 @@ def main():
             print('Updated "%s" classifier:' % classifier_name)
             print(json.dumps(update_classifier_result, indent=2))
 
-    except WatsonApiException as ex:
+    except ApiException as ex:
         print(ex)
 
 

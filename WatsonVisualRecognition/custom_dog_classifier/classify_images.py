@@ -4,7 +4,7 @@
 from __future__ import print_function
 import json
 import os
-from watson_developer_cloud import VisualRecognitionV3, WatsonApiException
+from ibm_watson import VisualRecognitionV3, ApiException
 
 
 def get_metrics(service, classifier_id, images_paths, correct_label):
@@ -100,7 +100,7 @@ def main():
             hit_rate, mean_hit_score, mean_miss_score = metrics
             print('%s:\n  hit rate = %.5f\n  mean score for hits = %.5f\n  mean score for misses = %.5f' % (label, hit_rate, mean_hit_score, mean_miss_score))
 
-    except WatsonApiException as ex:
+    except ApiException as ex:
         print(ex)
 
 

@@ -10,7 +10,7 @@ Adapted by Nummist Media (Joseph Howse) from IBM samples.
 2. Create a Watson Visual Recognition resource at https://console.bluemix.net/catalog/services/watson-vision-combined.
 3. Define an environment variable based on your 44-digit key for the Watson Visual Recognition service: `WATSON_VISUAL_RECOGNITION_KEY=12345678901234567890123456789012345678901234`.
 4. Define another environment variable based on the URL for the Watson Visual Recognition service: `WATSON_VISUAL_RECOGNITION_URL=https://gateway.watsonplatform.net/visual-recognition/api`.
-5. Install the Watson Developer Cloud Python SDK using pip: `pip install --upgrade watson-developer-cloud`. Alternatively, use easy_install: `easy_install --upgrade watson-developer-cloud`. For troubleshooting, see the instructions at https://github.com/watson-developer-cloud/python-sdk.
+5. Install the Watson Developer Cloud Python SDK using pip: `pip install --upgrade ibm-watson`. Alternatively, use easy_install: `easy_install --upgrade ibm-watson`. For troubleshooting, see the instructions at https://github.com/watson-developer-cloud/python-sdk.
 
 ## Finding the samples
 

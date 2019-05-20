@@ -4,7 +4,7 @@
 from __future__ import print_function
 import json
 import os
-from watson_developer_cloud import VisualRecognitionV3, WatsonApiException
+from ibm_watson import VisualRecognitionV3, ApiException
 
 
 def main():
@@ -24,7 +24,7 @@ def main():
                 classifier_ids=['default']).get_result()
             print(json.dumps(classify_result, indent=2))
 
-    except WatsonApiException as ex:
+    except ApiException as ex:
         print(ex)
 
 
