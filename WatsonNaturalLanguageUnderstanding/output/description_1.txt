@@ -1,0 +1,346 @@
+{
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "You"
+      },
+      "action": {
+        "text": "know",
+        "verb": {
+          "text": "know",
+          "tense": "present"
+        },
+        "normalized": "know"
+      },
+      "object": {
+        "text": "what I've realized"
+      },
+      "sentence": "You know what I've realized?"
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "have",
+        "verb": {
+          "text": "have",
+          "tense": "present"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "realized"
+      },
+      "sentence": "You know what I've realized?"
+    },
+    {
+      "subject": {
+        "text": "Riley"
+      },
+      "action": {
+        "text": "has",
+        "verb": {
+          "text": "have",
+          "negated": true,
+          "tense": "present"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "lunch"
+      },
+      "sentence": " Riley hasn't had lunch!"
+    },
+    {
+      "subject": {
+        "text": "Riley"
+      },
+      "action": {
+        "text": "had",
+        "verb": {
+          "text": "have",
+          "negated": true,
+          "tense": "future"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "lunch"
+      },
+      "sentence": " Riley hasn't had lunch!"
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "saw",
+        "verb": {
+          "text": "see",
+          "tense": "past"
+        },
+        "normalized": "see"
+      },
+      "object": {
+        "text": "a pizza place down the street"
+      },
+      "sentence": " Hey, I saw a pizza place down the street."
+    },
+    {
+      "subject": {
+        "text": "we"
+      },
+      "action": {
+        "text": "could try",
+        "verb": {
+          "text": "try",
+          "tense": "future"
+        },
+        "normalized": "could try"
+      },
+      "object": {
+        "text": "that"
+      },
+      "sentence": " Maybe we could try that?"
+    },
+    {
+      "subject": {
+        "text": "Pizza"
+      },
+      "action": {
+        "text": "sounds",
+        "verb": {
+          "text": "sound",
+          "tense": "present"
+        },
+        "normalized": "sound"
+      },
+      "object": {
+        "text": "delicious"
+      },
+      "sentence": " Pizza sounds delicious."
+    },
+    {
+      "subject": {
+        "text": "That"
+      },
+      "action": {
+        "text": "has",
+        "verb": {
+          "text": "has",
+          "tense": "present"
+        },
+        "normalized": "has"
+      },
+      "object": {
+        "text": "it"
+      },
+      "sentence": " That's it."
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "am",
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "done"
+      },
+      "sentence": " I'm done."
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "action": {
+        "text": "have",
+        "verb": {
+          "text": "have",
+          "tense": "present"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "ruined pizza"
+      },
+      "sentence": " Congratulations, San Francisco, you've ruined pizza!"
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "action": {
+        "text": "ruined",
+        "verb": {
+          "text": "ruin",
+          "tense": "past"
+        },
+        "normalized": "ruin"
+      },
+      "object": {
+        "text": "pizza"
+      },
+      "sentence": " Congratulations, San Francisco, you've ruined pizza!"
+    },
+    {
+      "subject": {
+        "text": "one kind of pizza"
+      },
+      "action": {
+        "text": "serves",
+        "verb": {
+          "text": "serve",
+          "tense": "present"
+        },
+        "normalized": "serve"
+      },
+      "object": {
+        "text": "What kind of a pizza place"
+      },
+      "sentence": " What kind of a pizza place only serves one kind of pizza?"
+    }
+  ],
+  "usage": {
+    "features": 8,
+    "text_units": 1,
+    "text_characters": 447
+  },
+  "concepts": [
+    {
+      "relevance": 0.906684,
+      "text": "English-language films",
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "relevance": 0.8188,
+      "text": "Pizza",
+      "dbpedia_resource": "http://dbpedia.org/resource/Pizza"
+    }
+  ],
+  "sentiment": {
+    "document": {
+      "score": 0.523099,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "relations": [],
+  "entities": [
+    {
+      "relevance": 0.791632,
+      "text": "San Francisco",
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2,
+      "type": "Location"
+    },
+    {
+      "relevance": 0.488303,
+      "text": "Riley",
+      "count": 1,
+      "type": "Person"
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.568378,
+        "fear": 0.040557,
+        "anger": 0.067033,
+        "joy": 0.59579,
+        "disgust": 0.070783
+      }
+    }
+  },
+  "categories": [
+    {
+      "score": 0.777319,
+      "label": "/food and drink/food"
+    },
+    {
+      "score": 0.738292,
+      "label": "/food and drink/food/salads"
+    },
+    {
+      "score": 0.647108,
+      "label": "/food and drink/cuisines/italian cuisine"
+    }
+  ],
+  "keywords": [
+    {
+      "relevance": 0.949545,
+      "text": "pizza place",
+      "count": 1
+    },
+    {
+      "relevance": 0.914325,
+      "text": "San Francisco",
+      "count": 1
+    },
+    {
+      "relevance": 0.818065,
+      "text": "kind of a pizza place",
+      "count": 1
+    },
+    {
+      "relevance": 0.649929,
+      "text": "Congratulations",
+      "count": 1
+    },
+    {
+      "relevance": 0.586866,
+      "text": "Pizza",
+      "count": 5
+    },
+    {
+      "relevance": 0.573141,
+      "text": "Riley",
+      "count": 1
+    },
+    {
+      "relevance": 0.571814,
+      "text": "San Francisco thing",
+      "count": 1
+    },
+    {
+      "relevance": 0.552439,
+      "text": "kind of pizza",
+      "count": 1
+    },
+    {
+      "relevance": 0.540289,
+      "text": "broccoli",
+      "count": 1
+    },
+    {
+      "relevance": 0.527915,
+      "text": "lunch",
+      "count": 1
+    },
+    {
+      "relevance": 0.527915,
+      "text": "street",
+      "count": 1
+    },
+    {
+      "relevance": 0.527915,
+      "text": "heck",
+      "count": 1
+    },
+    {
+      "relevance": 0.527915,
+      "text": "Hawaiians",
+      "count": 1
+    }
+  ]
+}

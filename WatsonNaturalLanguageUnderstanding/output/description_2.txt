@@ -1,0 +1,986 @@
+{
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "man"
+      },
+      "action": {
+        "text": "to give",
+        "verb": {
+          "text": "give",
+          "tense": "future"
+        },
+        "normalized": "to give"
+      },
+      "object": {
+        "text": "the satisfaction of this"
+      },
+      "sentence": "It is clearly not easy for man to give up the satisfaction of this inclination to aggression."
+    },
+    {
+      "subject": {
+        "text": "They"
+      },
+      "action": {
+        "text": "feel",
+        "verb": {
+          "text": "feel",
+          "negated": true,
+          "tense": "present"
+        },
+        "normalized": "feel"
+      },
+      "object": {
+        "text": "comfortable"
+      },
+      "sentence": " They do not feel comfortable without it."
+    },
+    {
+      "subject": {
+        "text": "a comparatively small cultural group"
+      },
+      "action": {
+        "text": "allowing",
+        "verb": {
+          "text": "allow",
+          "tense": "future"
+        },
+        "normalized": "allow"
+      },
+      "object": {
+        "text": "this instinct an outlet in the form of hostility against intruders"
+      },
+      "sentence": " The advantage which a comparatively small cultural group offers of allowing this instinct an outlet in the form of hostility against intruders is not to be despised."
+    },
+    {
+      "subject": {
+        "text": "this instinct an outlet in the form of hostility against intruders"
+      },
+      "action": {
+        "text": "be",
+        "verb": {
+          "text": "be",
+          "negated": true,
+          "tense": "future"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "despised"
+      },
+      "sentence": " The advantage which a comparatively small cultural group offers of allowing this instinct an outlet in the form of hostility against intruders is not to be despised."
+    },
+    {
+      "subject": {
+        "text": "It"
+      },
+      "action": {
+        "text": "is",
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "always possible"
+      },
+      "sentence": " It is always possible to bind together a considerable number of people in love, so long as there are other people left over to receive the manifestations of their aggressiveness."
+    },
+    {
+      "subject": {
+        "text": "other people"
+      },
+      "action": {
+        "text": "to receive",
+        "verb": {
+          "text": "receive",
+          "tense": "future"
+        },
+        "normalized": "to receive"
+      },
+      "object": {
+        "text": "the manifestations of their aggressiveness"
+      },
+      "sentence": " It is always possible to bind together a considerable number of people in love, so long as there are other people left over to receive the manifestations of their aggressiveness."
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "discussed",
+        "verb": {
+          "text": "discuss",
+          "tense": "past"
+        },
+        "normalized": "discuss"
+      },
+      "object": {
+        "text": "the phenomenon that is precisely communities with adjoining territories, and related to each other in other ways as well, who are engaged in constant feuds and in ridiculing each other"
+      },
+      "sentence": " I once discussed the phenomenon that is precisely communities with adjoining territories, and related to each other in other ways as well, who are engaged in constant feuds and in ridiculing each other -- like the Spaniards and Portuguese, for instance, the North Germans and South Germans, the English and Scotch, and so on."
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "gave",
+        "verb": {
+          "text": "give",
+          "tense": "past"
+        },
+        "normalized": "give"
+      },
+      "object": {
+        "text": "the name of \"the narcissism of minor differences\", a name which does not do much to explain it"
+      },
+      "sentence": " I gave this phenomenon the name of \"the narcissism of minor differences\", a name which does not do much to explain it."
+    },
+    {
+      "subject": {
+        "text": "a name"
+      },
+      "action": {
+        "text": "does",
+        "verb": {
+          "text": "do",
+          "tense": "present"
+        },
+        "normalized": "do"
+      },
+      "object": {
+        "text": "not do much"
+      },
+      "sentence": " I gave this phenomenon the name of \"the narcissism of minor differences\", a name which does not do much to explain it."
+    },
+    {
+      "subject": {
+        "text": "a name"
+      },
+      "action": {
+        "text": "do",
+        "verb": {
+          "text": "do",
+          "negated": true,
+          "tense": "present"
+        },
+        "normalized": "do"
+      },
+      "object": {
+        "text": "much"
+      },
+      "sentence": " I gave this phenomenon the name of \"the narcissism of minor differences\", a name which does not do much to explain it."
+    },
+    {
+      "subject": {
+        "text": "a name"
+      },
+      "action": {
+        "text": "to explain",
+        "verb": {
+          "text": "explain",
+          "tense": "future"
+        },
+        "normalized": "to explain"
+      },
+      "object": {
+        "text": "it"
+      },
+      "sentence": " I gave this phenomenon the name of \"the narcissism of minor differences\", a name which does not do much to explain it."
+    },
+    {
+      "subject": {
+        "text": "We"
+      },
+      "action": {
+        "text": "see",
+        "verb": {
+          "text": "see",
+          "tense": "future"
+        },
+        "normalized": "see"
+      },
+      "object": {
+        "text": "that it is a convenient and relatively harmless satisfaction of the inclination to aggression, by means of which cohesion between the members of the community is made easier"
+      },
+      "sentence": " We can now see that it is a convenient and relatively harmless satisfaction of the inclination to aggression, by means of which cohesion between the members of the community is made easier."
+    },
+    {
+      "subject": {
+        "text": "the Jewish people, scattered everywhere,"
+      },
+      "action": {
+        "text": "have",
+        "verb": {
+          "text": "have",
+          "tense": "present"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "rendered most useful services to the civilizations of the countries that have been their hosts"
+      },
+      "sentence": " In this respect the Jewish people, scattered everywhere, have rendered most useful services to the civilizations of the countries that have been their hosts; but unfortunately all the massacres of the Jews in the Middle Ages did not suffice to make that period more peaceful and secure for their Christian fellows."
+    },
+    {
+      "subject": {
+        "text": "the Jewish people, scattered everywhere,"
+      },
+      "action": {
+        "text": "have rendered",
+        "verb": {
+          "text": "render",
+          "tense": "past"
+        },
+        "normalized": "have render"
+      },
+      "object": {
+        "text": "most useful services"
+      },
+      "sentence": " In this respect the Jewish people, scattered everywhere, have rendered most useful services to the civilizations of the countries that have been their hosts; but unfortunately all the massacres of the Jews in the Middle Ages did not suffice to make that period more peaceful and secure for their Christian fellows."
+    },
+    {
+      "subject": {
+        "text": "all the massacres of the Jews in the Middle Ages"
+      },
+      "action": {
+        "text": "did",
+        "verb": {
+          "text": "do",
+          "tense": "past"
+        },
+        "normalized": "do"
+      },
+      "object": {
+        "text": "not suffice to make that period more peaceful and secure for their Christian fellows"
+      },
+      "sentence": " In this respect the Jewish people, scattered everywhere, have rendered most useful services to the civilizations of the countries that have been their hosts; but unfortunately all the massacres of the Jews in the Middle Ages did not suffice to make that period more peaceful and secure for their Christian fellows."
+    },
+    {
+      "subject": {
+        "text": "the Apostle Paul"
+      },
+      "action": {
+        "text": "had",
+        "verb": {
+          "text": "have",
+          "tense": "past"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "posited universal love between men as the foundation of his Christian community, extreme intolerance"
+      },
+      "sentence": " When once the Apostle Paul had posited universal love between men as the foundation of his Christian community, extreme intolerance, part of Christendom towards those who remained outside its became the inevitable consequence."
+    },
+    {
+      "subject": {
+        "text": "the Apostle Paul"
+      },
+      "action": {
+        "text": "had posited",
+        "verb": {
+          "text": "posit",
+          "tense": "past"
+        },
+        "normalized": "have posit"
+      },
+      "object": {
+        "text": "universal love between men as the foundation of his Christian community, extreme intolerance, part of Christendom towards those who remained outside its became the inevitable consequence"
+      },
+      "sentence": " When once the Apostle Paul had posited universal love between men as the foundation of his Christian community, extreme intolerance, part of Christendom towards those who remained outside its became the inevitable consequence."
+    },
+    {
+      "subject": {
+        "text": "the Romans"
+      },
+      "action": {
+        "text": "had",
+        "verb": {
+          "text": "have",
+          "tense": "past"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "not founded their communal life as a State upon love, religious intolerance was something foreign"
+      },
+      "sentence": " To the Romans, who had not founded their communal life as a State upon love, religious intolerance was something foreign, although with them religion was a concern of the State and the State was permeated by religion."
+    },
+    {
+      "subject": {
+        "text": "the Romans"
+      },
+      "action": {
+        "text": "founded",
+        "verb": {
+          "text": "found",
+          "negated": true,
+          "tense": "past"
+        },
+        "normalized": "found"
+      },
+      "object": {
+        "text": "their communal life"
+      },
+      "sentence": " To the Romans, who had not founded their communal life as a State upon love, religious intolerance was something foreign, although with them religion was a concern of the State and the State was permeated by religion."
+    },
+    {
+      "subject": {
+        "text": "with them religion"
+      },
+      "action": {
+        "text": "was",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "a concern of the State and the State"
+      },
+      "sentence": " To the Romans, who had not founded their communal life as a State upon love, religious intolerance was something foreign, although with them religion was a concern of the State and the State was permeated by religion."
+    },
+    {
+      "subject": {
+        "text": "a concern of the State and the State"
+      },
+      "action": {
+        "text": "was permeated",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be permeate"
+      },
+      "object": {
+        "text": "by religion"
+      },
+      "sentence": " To the Romans, who had not founded their communal life as a State upon love, religious intolerance was something foreign, although with them religion was a concern of the State and the State was permeated by religion."
+    },
+    {
+      "subject": {
+        "text": "by religion"
+      },
+      "action": {
+        "text": "was permeated",
+        "verb": {
+          "text": "permeate",
+          "tense": "past"
+        },
+        "normalized": "be permeate"
+      },
+      "object": {
+        "text": "a concern of the State and the State"
+      },
+      "sentence": " To the Romans, who had not founded their communal life as a State upon love, religious intolerance was something foreign, although with them religion was a concern of the State and the State was permeated by religion."
+    },
+    {
+      "subject": {
+        "text": "communist civilization in Russia"
+      },
+      "action": {
+        "text": "should find",
+        "verb": {
+          "text": "find",
+          "tense": "future"
+        },
+        "normalized": "should find"
+      },
+      "object": {
+        "text": "its psychological support"
+      },
+      "sentence": " Neither was it an unaccountable chance that the dream of a Germanic world-dominion called for anti-Semitism as its complement; and it is intelligible that the attempts to establish a new, communist civilization in Russia should find its psychological support in the persecution of the bourgeois."
+    },
+    {
+      "subject": {
+        "text": "the Soviets"
+      },
+      "action": {
+        "text": "will do",
+        "verb": {
+          "text": "do",
+          "tense": "future"
+        },
+        "normalized": "will do"
+      },
+      "sentence": " One only wonders, with concern, what the Soviets will do after they have wiped out their bourgeois."
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "action": {
+        "text": "have",
+        "verb": {
+          "text": "have",
+          "tense": "future"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "wiped"
+      },
+      "sentence": " One only wonders, with concern, what the Soviets will do after they have wiped out their bourgeois."
+    }
+  ],
+  "usage": {
+    "features": 8,
+    "text_units": 1,
+    "text_characters": 2271
+  },
+  "concepts": [
+    {
+      "relevance": 0.988039,
+      "text": "Middle Ages",
+      "dbpedia_resource": "http://dbpedia.org/resource/Middle_Ages"
+    },
+    {
+      "relevance": 0.973251,
+      "text": "Jews",
+      "dbpedia_resource": "http://dbpedia.org/resource/Jews"
+    },
+    {
+      "relevance": 0.769791,
+      "text": "Judaism",
+      "dbpedia_resource": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+      "relevance": 0.766267,
+      "text": "Christianity",
+      "dbpedia_resource": "http://dbpedia.org/resource/Christianity"
+    },
+    {
+      "relevance": 0.662466,
+      "text": "Paul of Tarsus",
+      "dbpedia_resource": "http://dbpedia.org/resource/Paul_of_Tarsus"
+    },
+    {
+      "relevance": 0.652333,
+      "text": "Community",
+      "dbpedia_resource": "http://dbpedia.org/resource/Community"
+    },
+    {
+      "relevance": 0.630474,
+      "text": "Love",
+      "dbpedia_resource": "http://dbpedia.org/resource/Love"
+    },
+    {
+      "relevance": 0.618965,
+      "text": "Germanic peoples",
+      "dbpedia_resource": "http://dbpedia.org/resource/Germanic_peoples"
+    }
+  ],
+  "sentiment": {
+    "document": {
+      "score": -0.301447,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "relations": [
+    {
+      "score": 0.705503,
+      "arguments": [
+        {
+          "text": "I",
+          "entities": [
+            {
+              "text": "I",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            480,
+            481
+          ]
+        },
+        {
+          "text": "discussed",
+          "entities": [
+            {
+              "text": "discussed",
+              "type": "EventMeeting"
+            }
+          ],
+          "location": [
+            487,
+            496
+          ]
+        }
+      ],
+      "type": "participantIn",
+      "sentence": "I once discussed the phenomenon that is precisely communities with adjoining territories, and related to each other in other ways as well, who are engaged in constant feuds and in ridiculing each other -- like the Spaniards and Portuguese, for instance, the North Germans and South Germans, the English and Scotch, and so on."
+    },
+    {
+      "score": 0.418974,
+      "arguments": [
+        {
+          "text": "communities",
+          "entities": [
+            {
+              "text": "communities",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            530,
+            541
+          ]
+        },
+        {
+          "text": "territories",
+          "entities": [
+            {
+              "text": "territories",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            557,
+            568
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "I once discussed the phenomenon that is precisely communities with adjoining territories, and related to each other in other ways as well, who are engaged in constant feuds and in ridiculing each other -- like the Spaniards and Portuguese, for instance, the North Germans and South Germans, the English and Scotch, and so on."
+    },
+    {
+      "score": 0.644965,
+      "arguments": [
+        {
+          "text": "members",
+          "entities": [
+            {
+              "text": "members",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1074,
+            1081
+          ]
+        },
+        {
+          "text": "community",
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1089,
+            1098
+          ]
+        }
+      ],
+      "type": "partOfMany",
+      "sentence": "We can now see that it is a convenient and relatively harmless satisfaction of the inclination to aggression, by means of which cohesion between the members of the community is made easier."
+    },
+    {
+      "score": 0.317339,
+      "arguments": [
+        {
+          "text": "Paul",
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1452,
+            1456
+          ]
+        },
+        {
+          "text": "Apostle",
+          "entities": [
+            {
+              "text": "Apostle",
+              "type": "Location"
+            }
+          ],
+          "location": [
+            1444,
+            1451
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "When once the Apostle Paul had posited universal love between men as the foundation of his Christian community, extreme intolerance, part of Christendom towards those who remained outside its became the inevitable consequence."
+    },
+    {
+      "score": 0.414899,
+      "arguments": [
+        {
+          "text": "his",
+          "entities": [
+            {
+              "text": "Paul",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1517,
+            1520
+          ]
+        },
+        {
+          "text": "Christian",
+          "entities": [
+            {
+              "text": "Christian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1521,
+            1530
+          ]
+        }
+      ],
+      "type": "partOfMany",
+      "sentence": "When once the Apostle Paul had posited universal love between men as the foundation of his Christian community, extreme intolerance, part of Christendom towards those who remained outside its became the inevitable consequence."
+    },
+    {
+      "score": 0.724931,
+      "arguments": [
+        {
+          "text": "community",
+          "entities": [
+            {
+              "text": "community",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1531,
+            1540
+          ]
+        },
+        {
+          "text": "Christian",
+          "entities": [
+            {
+              "text": "Christian",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1521,
+            1530
+          ]
+        }
+      ],
+      "type": "partOfMany",
+      "sentence": "When once the Apostle Paul had posited universal love between men as the foundation of his Christian community, extreme intolerance, part of Christendom towards those who remained outside its became the inevitable consequence."
+    }
+  ],
+  "entities": [
+    {
+      "relevance": 0.717403,
+      "text": "Russia",
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "AwardPresentingOrganization",
+          "FilmFestivalFocus",
+          "Country"
+        ],
+        "dbpedia_resource": "http://dbpedia.org/resource/Poland",
+        "name": "Poland"
+      },
+      "count": 1,
+      "type": "Location"
+    },
+    {
+      "relevance": 0.643411,
+      "text": "Paul",
+      "count": 1,
+      "type": "Person"
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.162296,
+        "fear": 0.084588,
+        "anger": 0.125345,
+        "joy": 0.598906,
+        "disgust": 0.4675
+      }
+    }
+  },
+  "categories": [
+    {
+      "score": 0.957955,
+      "label": "/religion and spirituality/judaism"
+    },
+    {
+      "score": 0.929015,
+      "label": "/religion and spirituality/christianity"
+    },
+    {
+      "score": 0.917313,
+      "label": "/law, govt and politics/politics"
+    }
+  ],
+  "keywords": [
+    {
+      "relevance": 0.675555,
+      "text": "Apostle Paul",
+      "count": 1
+    },
+    {
+      "relevance": 0.653292,
+      "text": "unaccountable chance",
+      "count": 1
+    },
+    {
+      "relevance": 0.609539,
+      "text": "considerable number of people",
+      "count": 1
+    },
+    {
+      "relevance": 0.60498,
+      "text": "dream of a Germanic world-dominion",
+      "count": 1
+    },
+    {
+      "relevance": 0.592257,
+      "text": "anti-Semitism",
+      "count": 1
+    },
+    {
+      "relevance": 0.584878,
+      "text": "Jewish people",
+      "count": 1
+    },
+    {
+      "relevance": 0.570358,
+      "text": "communal life",
+      "count": 1
+    },
+    {
+      "relevance": 0.568224,
+      "text": "small cultural group offers",
+      "count": 1
+    },
+    {
+      "relevance": 0.5666,
+      "text": "Middle Ages",
+      "count": 1
+    },
+    {
+      "relevance": 0.56151,
+      "text": "civilizations of the countries",
+      "count": 1
+    },
+    {
+      "relevance": 0.556288,
+      "text": "religious intolerance",
+      "count": 1
+    },
+    {
+      "relevance": 0.552667,
+      "text": "satisfaction of this inclination",
+      "count": 1
+    },
+    {
+      "relevance": 0.544467,
+      "text": "universal love",
+      "count": 1
+    },
+    {
+      "relevance": 0.543562,
+      "text": "useful services",
+      "count": 1
+    },
+    {
+      "relevance": 0.538843,
+      "text": "members of the community",
+      "count": 1
+    },
+    {
+      "relevance": 0.536004,
+      "text": "extreme intolerance",
+      "count": 1
+    },
+    {
+      "relevance": 0.532338,
+      "text": "constant feuds",
+      "count": 1
+    },
+    {
+      "relevance": 0.530068,
+      "text": "massacres of the Jews",
+      "count": 1
+    },
+    {
+      "relevance": 0.526337,
+      "text": "harmless satisfaction of the inclination",
+      "count": 1
+    },
+    {
+      "relevance": 0.526047,
+      "text": "love",
+      "count": 2
+    },
+    {
+      "relevance": 0.525639,
+      "text": "communities",
+      "count": 1
+    },
+    {
+      "relevance": 0.525191,
+      "text": "man",
+      "count": 1
+    },
+    {
+      "relevance": 0.525121,
+      "text": "advantage",
+      "count": 1
+    },
+    {
+      "relevance": 0.524881,
+      "text": "foundation of his Christian community",
+      "count": 1
+    },
+    {
+      "relevance": 0.524809,
+      "text": "inevitable consequence",
+      "count": 1
+    },
+    {
+      "relevance": 0.52437,
+      "text": "respect",
+      "count": 1
+    },
+    {
+      "relevance": 0.52395,
+      "text": "narcissism of minor differences",
+      "count": 1
+    },
+    {
+      "relevance": 0.522554,
+      "text": "Romans",
+      "count": 1
+    },
+    {
+      "relevance": 0.521407,
+      "text": "phenomenon",
+      "count": 2
+    },
+    {
+      "relevance": 0.518898,
+      "text": "concern of the State",
+      "count": 1
+    },
+    {
+      "relevance": 0.517135,
+      "text": "communist civilization",
+      "count": 1
+    },
+    {
+      "relevance": 0.514443,
+      "text": "State",
+      "count": 2
+    },
+    {
+      "relevance": 0.513456,
+      "text": "cohesion",
+      "count": 1
+    },
+    {
+      "relevance": 0.513332,
+      "text": "people",
+      "count": 1
+    },
+    {
+      "relevance": 0.513087,
+      "text": "aggression",
+      "count": 2
+    },
+    {
+      "relevance": 0.512924,
+      "text": "name",
+      "count": 2
+    },
+    {
+      "relevance": 0.512603,
+      "text": "men",
+      "count": 1
+    },
+    {
+      "relevance": 0.512557,
+      "text": "ways",
+      "count": 1
+    },
+    {
+      "relevance": 0.512391,
+      "text": "complement",
+      "count": 1
+    },
+    {
+      "relevance": 0.512039,
+      "text": "territories",
+      "count": 1
+    },
+    {
+      "relevance": 0.511748,
+      "text": "hosts",
+      "count": 1
+    },
+    {
+      "relevance": 0.511277,
+      "text": "attempts",
+      "count": 1
+    },
+    {
+      "relevance": 0.511228,
+      "text": "Christian fellows",
+      "count": 1
+    },
+    {
+      "relevance": 0.508845,
+      "text": "Spaniards",
+      "count": 1
+    },
+    {
+      "relevance": 0.508523,
+      "text": "wonders",
+      "count": 1
+    },
+    {
+      "relevance": 0.507885,
+      "text": "religion",
+      "count": 2
+    },
+    {
+      "relevance": 0.507608,
+      "text": "instinct",
+      "count": 1
+    },
+    {
+      "relevance": 0.507529,
+      "text": "instance",
+      "count": 1
+    },
+    {
+      "relevance": 0.507502,
+      "text": "North Germans",
+      "count": 1
+    },
+    {
+      "relevance": 0.507347,
+      "text": "period",
+      "count": 1
+    }
+  ]
+}

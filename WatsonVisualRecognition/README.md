@@ -1,6 +1,6 @@
-# Watson Python Samples
+# Watson Visual Recognition Python Samples
 
-These samples show how to use the Watson Developer Cloud Python SDK to access the Watson Visual Recognition service.  As well as basic usage of the default classifier, the samples cover training and use of custom classifiers.  They have been tested on Mac OS 10.11 (El Capitan) with Python 3.5 and Watson Developer Cloud Python SDK 2.5.2.
+These samples show how to use the Watson Developer Cloud Python SDK to access the Watson Visual Recognition service.  As well as basic usage of the default classifier, the samples cover training and use of custom classifiers.  They have been tested on Mac OS 10.11 (El Capitan) with Python 3.5 and Watson Developer Cloud Python SDK 3.0.4.
 
 Adapted by Nummist Media (Joseph Howse) from IBM samples.
 

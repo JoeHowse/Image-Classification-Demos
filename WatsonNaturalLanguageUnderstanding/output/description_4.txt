@@ -1,0 +1,1448 @@
+{
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "they"
+      },
+      "action": {
+        "text": "sat",
+        "verb": {
+          "text": "sit",
+          "tense": "past"
+        },
+        "normalized": "sit"
+      },
+      "object": {
+        "text": "on a seat not far from the church"
+      },
+      "sentence": "At Oreanda they sat on a seat not far from the church, looked down at the sea, and were silent."
+    },
+    {
+      "subject": {
+        "text": "Yalta"
+      },
+      "action": {
+        "text": "was",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "hardly visible"
+      },
+      "sentence": " Yalta was hardly visible through the morning mist; white clouds stood motionless on the mountain-tops."
+    },
+    {
+      "subject": {
+        "text": "white clouds"
+      },
+      "action": {
+        "text": "stood",
+        "verb": {
+          "text": "stand",
+          "tense": "past"
+        },
+        "normalized": "stand"
+      },
+      "object": {
+        "text": "motionless on the mountain-tops"
+      },
+      "sentence": " Yalta was hardly visible through the morning mist; white clouds stood motionless on the mountain-tops."
+    },
+    {
+      "subject": {
+        "text": "The leaves"
+      },
+      "action": {
+        "text": "stir",
+        "verb": {
+          "text": "stir",
+          "negated": true,
+          "tense": "past"
+        },
+        "normalized": "stir"
+      },
+      "object": {
+        "text": "on the trees, grasshoppers chirruped"
+      },
+      "sentence": " The leaves did not stir on the trees, grasshoppers chirruped, and the monotonous hollow sound of the sea rising up from below, spoke of the peace, of the eternal sleep awaiting us."
+    },
+    {
+      "subject": {
+        "text": "the monotonous hollow sound of the sea"
+      },
+      "action": {
+        "text": "spoke",
+        "verb": {
+          "text": "speak",
+          "tense": "past"
+        },
+        "normalized": "speak"
+      },
+      "object": {
+        "text": "of the peace"
+      },
+      "sentence": " The leaves did not stir on the trees, grasshoppers chirruped, and the monotonous hollow sound of the sea rising up from below, spoke of the peace, of the eternal sleep awaiting us."
+    },
+    {
+      "subject": {
+        "text": "the eternal sleep"
+      },
+      "action": {
+        "text": "awaiting",
+        "verb": {
+          "text": "await",
+          "tense": "present"
+        },
+        "normalized": "await"
+      },
+      "object": {
+        "text": "us"
+      },
+      "sentence": " The leaves did not stir on the trees, grasshoppers chirruped, and the monotonous hollow sound of the sea rising up from below, spoke of the peace, of the eternal sleep awaiting us."
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "action": {
+        "text": "must have sounded",
+        "verb": {
+          "text": "sound",
+          "tense": "future"
+        },
+        "normalized": "must have sound"
+      },
+      "sentence": " So it must have sounded when there was no Yalta, no Oreanda here; so it sounds now, and it will sound as indifferently and monotonously when we are all no more."
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "action": {
+        "text": "sounds",
+        "verb": {
+          "text": "sound",
+          "tense": "present"
+        },
+        "normalized": "sound"
+      },
+      "sentence": " So it must have sounded when there was no Yalta, no Oreanda here; so it sounds now, and it will sound as indifferently and monotonously when we are all no more."
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "action": {
+        "text": "will sound",
+        "verb": {
+          "text": "sound",
+          "tense": "future"
+        },
+        "normalized": "will sound"
+      },
+      "object": {
+        "text": "as indifferently and monotonously"
+      },
+      "sentence": " So it must have sounded when there was no Yalta, no Oreanda here; so it sounds now, and it will sound as indifferently and monotonously when we are all no more."
+    },
+    {
+      "subject": {
+        "text": "Gurov"
+      },
+      "action": {
+        "text": "thought",
+        "verb": {
+          "text": "think",
+          "tense": "past"
+        },
+        "normalized": "think"
+      },
+      "object": {
+        "text": "how in reality everything is beautiful in this world when one reflects: everything except what we think or do ourselves when we forget our human dignity and the higher aims of our existence"
+      },
+      "sentence": " Sitting beside a young woman who in the dawn seemed so lovely, soothed and spellbound in these magical surroundings -- the sea, mountains, clouds, the open sky -- Gurov thought how in reality everything is beautiful in this world when one reflects: everything except what we think or do ourselves when we forget our human dignity and the higher aims of our existence."
+    },
+    {
+      "subject": {
+        "text": "everything except what we think or do ourselves when we forget our human dignity"
+      },
+      "action": {
+        "text": "reflects",
+        "verb": {
+          "text": "reflect",
+          "tense": "present"
+        },
+        "normalized": "reflect"
+      },
+      "object": {
+        "text": "one"
+      },
+      "sentence": " Sitting beside a young woman who in the dawn seemed so lovely, soothed and spellbound in these magical surroundings -- the sea, mountains, clouds, the open sky -- Gurov thought how in reality everything is beautiful in this world when one reflects: everything except what we think or do ourselves when we forget our human dignity and the higher aims of our existence."
+    },
+    {
+      "subject": {
+        "text": "A man walked up to them -- probably a keeper --"
+      },
+      "action": {
+        "text": "looked",
+        "verb": {
+          "text": "look",
+          "tense": "past"
+        },
+        "normalized": "look"
+      },
+      "object": {
+        "text": "at them"
+      },
+      "sentence": " A man walked up to them -- probably a keeper -- looked at them and walked away."
+    },
+    {
+      "subject": {
+        "text": "They"
+      },
+      "action": {
+        "text": "saw",
+        "verb": {
+          "text": "see",
+          "tense": "past"
+        },
+        "normalized": "see"
+      },
+      "object": {
+        "text": "a steamer"
+      },
+      "sentence": " They saw a steamer come from Theodosia, with its lights out in the glow of dawn."
+    },
+    {
+      "subject": {
+        "text": "Anna Sergeyevna"
+      },
+      "action": {
+        "text": "said",
+        "verb": {
+          "text": "say",
+          "tense": "past"
+        },
+        "normalized": "say"
+      },
+      "object": {
+        "text": "There is dew on the grass"
+      },
+      "sentence": " \"There is dew on the grass,\" said Anna Sergeyevna, after a silence."
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "action": {
+        "text": "met",
+        "verb": {
+          "text": "meet",
+          "tense": "past"
+        },
+        "normalized": "meet"
+      },
+      "sentence": " Then they met every day at twelve o'clock on the sea-front, lunched and dined together, went for walks, admired the sea."
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "action": {
+        "text": "lunched and dined",
+        "verb": {
+          "text": "dine",
+          "tense": "past"
+        },
+        "normalized": "lunch and dine"
+      },
+      "sentence": " Then they met every day at twelve o'clock on the sea-front, lunched and dined together, went for walks, admired the sea."
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "action": {
+        "text": "admired",
+        "verb": {
+          "text": "admire",
+          "tense": "past"
+        },
+        "normalized": "admire"
+      },
+      "object": {
+        "text": "the sea"
+      },
+      "sentence": " Then they met every day at twelve o'clock on the sea-front, lunched and dined together, went for walks, admired the sea."
+    },
+    {
+      "subject": {
+        "text": "She"
+      },
+      "action": {
+        "text": "complained",
+        "verb": {
+          "text": "complain",
+          "tense": "past"
+        },
+        "normalized": "complain"
+      },
+      "object": {
+        "text": "that she slept badly"
+      },
+      "sentence": " She complained that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently."
+    },
+    {
+      "subject": {
+        "text": "by jealousy and now"
+      },
+      "action": {
+        "text": "troubled",
+        "verb": {
+          "text": "trouble",
+          "tense": "past"
+        },
+        "normalized": "trouble"
+      },
+      "object": {
+        "text": "the same questions"
+      },
+      "sentence": " She complained that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "did",
+        "verb": {
+          "text": "do",
+          "tense": "past"
+        },
+        "normalized": "do"
+      },
+      "object": {
+        "text": "not respect her"
+      },
+      "sentence": " She complained that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "respect",
+        "verb": {
+          "text": "respect",
+          "negated": true,
+          "tense": "past"
+        },
+        "normalized": "respect"
+      },
+      "object": {
+        "text": "her"
+      },
+      "sentence": " She complained that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "drew",
+        "verb": {
+          "text": "draw",
+          "tense": "past"
+        },
+        "normalized": "draw"
+      },
+      "object": {
+        "text": "her"
+      },
+      "sentence": " And often in the square or gardens, when there was no one near them, he suddenly drew her to him and kissed her passionately."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "kissed",
+        "verb": {
+          "text": "kiss",
+          "tense": "past"
+        },
+        "normalized": "kiss"
+      },
+      "object": {
+        "text": "her"
+      },
+      "sentence": " And often in the square or gardens, when there was no one near them, he suddenly drew her to him and kissed her passionately."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "looked",
+        "verb": {
+          "text": "look",
+          "tense": "past"
+        },
+        "normalized": "look"
+      },
+      "object": {
+        "text": "round"
+      },
+      "sentence": " Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    },
+    {
+      "subject": {
+        "text": "some one"
+      },
+      "action": {
+        "text": "seeing",
+        "verb": {
+          "text": "see",
+          "tense": "present"
+        },
+        "normalized": "see"
+      },
+      "object": {
+        "text": "them"
+      },
+      "sentence": " Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    },
+    {
+      "subject": {
+        "text": "the continual passing to and fro before him of idle, well-dressed, well-fed people,"
+      },
+      "action": {
+        "text": "made",
+        "verb": {
+          "text": "make",
+          "tense": "past"
+        },
+        "normalized": "make"
+      },
+      "object": {
+        "text": "a new man of him"
+      },
+      "sentence": " Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "told",
+        "verb": {
+          "text": "tell",
+          "tense": "past"
+        },
+        "normalized": "tell"
+      },
+      "object": {
+        "text": "how beautiful she was"
+      },
+      "sentence": " Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "move",
+        "verb": {
+          "text": "move",
+          "negated": true,
+          "tense": "future"
+        },
+        "normalized": "move"
+      },
+      "object": {
+        "text": "a step away from her"
+      },
+      "sentence": " He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "subject": {
+        "text": "she"
+      },
+      "action": {
+        "text": "was",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "often pensive"
+      },
+      "sentence": " He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "subject": {
+        "text": "him"
+      },
+      "action": {
+        "text": "urged",
+        "verb": {
+          "text": "urge",
+          "tense": "past"
+        },
+        "normalized": "urge"
+      },
+      "object": {
+        "text": "to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman"
+      },
+      "sentence": " He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "subject": {
+        "text": "him"
+      },
+      "action": {
+        "text": "to confess",
+        "verb": {
+          "text": "confess",
+          "tense": "future"
+        },
+        "normalized": "to confess"
+      },
+      "object": {
+        "text": "that he did not respect her"
+      },
+      "sentence": " He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "subject": {
+        "text": "they"
+      },
+      "action": {
+        "text": "drove",
+        "verb": {
+          "text": "drive",
+          "tense": "past"
+        },
+        "normalized": "drive"
+      },
+      "sentence": " Rather late almost every evening they drove somewhere out of town, to Oreanda or to the waterfall; and the expedition was always a success, the scenery invariably impressed them as grand and beautiful."
+    },
+    {
+      "subject": {
+        "text": "the expedition"
+      },
+      "action": {
+        "text": "was",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "a success"
+      },
+      "sentence": " Rather late almost every evening they drove somewhere out of town, to Oreanda or to the waterfall; and the expedition was always a success, the scenery invariably impressed them as grand and beautiful."
+    },
+    {
+      "subject": {
+        "text": "the scenery"
+      },
+      "action": {
+        "text": "impressed",
+        "verb": {
+          "text": "impress",
+          "tense": "past"
+        },
+        "normalized": "impress"
+      },
+      "object": {
+        "text": "them"
+      },
+      "sentence": " Rather late almost every evening they drove somewhere out of town, to Oreanda or to the waterfall; and the expedition was always a success, the scenery invariably impressed them as grand and beautiful."
+    }
+  ],
+  "usage": {
+    "features": 8,
+    "text_units": 1,
+    "text_characters": 2687
+  },
+  "concepts": [
+    {
+      "relevance": 0.927364,
+      "text": "English-language films",
+      "dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+    },
+    {
+      "relevance": 0.785442,
+      "text": "2009 albums",
+      "dbpedia_resource": "http://dbpedia.org/resource/2009_albums"
+    },
+    {
+      "relevance": 0.756707,
+      "text": "Sound",
+      "dbpedia_resource": "http://dbpedia.org/resource/Sound"
+    },
+    {
+      "relevance": 0.628819,
+      "text": "The Glow",
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Glow"
+    },
+    {
+      "relevance": 0.623985,
+      "text": "In Broad Daylight",
+      "dbpedia_resource": "http://dbpedia.org/resource/In_Broad_Daylight"
+    },
+    {
+      "relevance": 0.61364,
+      "text": "Dignity",
+      "dbpedia_resource": "http://dbpedia.org/resource/Dignity"
+    },
+    {
+      "relevance": 0.611194,
+      "text": "Thought",
+      "dbpedia_resource": "http://dbpedia.org/resource/Thought"
+    }
+  ],
+  "sentiment": {
+    "document": {
+      "score": 0.339993,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "relations": [
+    {
+      "score": 0.61769,
+      "arguments": [
+        {
+          "text": "they",
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            11,
+            15
+          ]
+        },
+        {
+          "text": "sea",
+          "entities": [
+            {
+              "text": "sea",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            74,
+            77
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "At Oreanda they sat on a seat not far from the church, looked down at the sea, and were silent."
+    },
+    {
+      "score": 0.355308,
+      "arguments": [
+        {
+          "text": "them",
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2026,
+            2030
+          ]
+        },
+        {
+          "text": "sea",
+          "entities": [
+            {
+              "text": "sea",
+              "type": "GeographicFeature"
+            }
+          ],
+          "location": [
+            2059,
+            2062
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    },
+    {
+      "score": 0.874484,
+      "arguments": [
+        {
+          "text": "Anna Sergeyevna",
+          "entities": [
+            {
+              "text": "Anna Sergeyevna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2183,
+            2198
+          ]
+        },
+        {
+          "text": "told",
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2178,
+            2182
+          ]
+        }
+      ],
+      "type": "affectedBy",
+      "sentence": "Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    },
+    {
+      "score": 0.860169,
+      "arguments": [
+        {
+          "text": "him",
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2360,
+            2363
+          ]
+        },
+        {
+          "text": "urged",
+          "entities": [
+            {
+              "text": "complained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2354,
+            2359
+          ]
+        }
+      ],
+      "type": "affectedBy",
+      "sentence": "He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "score": 0.87023,
+      "arguments": [
+        {
+          "text": "him",
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2360,
+            2363
+          ]
+        },
+        {
+          "text": "confess",
+          "entities": [
+            {
+              "text": "confess",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2367,
+            2374
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "score": 0.690141,
+      "arguments": [
+        {
+          "text": "they",
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2518,
+            2522
+          ]
+        },
+        {
+          "text": "town",
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            2546,
+            2550
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "Rather late almost every evening they drove somewhere out of town, to Oreanda or to the waterfall; and the expedition was always a success, the scenery invariably impressed them as grand and beautiful."
+    },
+    {
+      "score": 0.540871,
+      "arguments": [
+        {
+          "text": "They",
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1282,
+            1286
+          ]
+        },
+        {
+          "text": "Theodosia",
+          "entities": [
+            {
+              "text": "Theodosia",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1311,
+            1320
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "They saw a steamer come from Theodosia, with its lights out in the glow of dawn."
+    },
+    {
+      "score": 0.984654,
+      "arguments": [
+        {
+          "text": "Anna Sergeyevna",
+          "entities": [
+            {
+              "text": "Anna Sergeyevna",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1398,
+            1413
+          ]
+        },
+        {
+          "text": "said",
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1393,
+            1397
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "\"There is dew on the grass,\" said Anna Sergeyevna, after a silence."
+    },
+    {
+      "score": 0.790918,
+      "arguments": [
+        {
+          "text": "They",
+          "entities": [
+            {
+              "text": "they",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1463,
+            1467
+          ]
+        },
+        {
+          "text": "town",
+          "entities": [
+            {
+              "text": "town",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1485,
+            1489
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "They went back to the town."
+    },
+    {
+      "score": 0.996948,
+      "arguments": [
+        {
+          "text": "She",
+          "entities": [
+            {
+              "text": "She",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1613,
+            1616
+          ]
+        },
+        {
+          "text": "complained",
+          "entities": [
+            {
+              "text": "complained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1617,
+            1627
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "She complained that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently."
+    },
+    {
+      "score": 0.820919,
+      "arguments": [
+        {
+          "text": "she",
+          "entities": [
+            {
+              "text": "She",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2316,
+            2319
+          ]
+        },
+        {
+          "text": "urged",
+          "entities": [
+            {
+              "text": "complained",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2354,
+            2359
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "He was impatiently passionate, he would not move a step away from her, while she was often pensive and continually urged him to confess that he did not respect her, did not love her in the least, and thought of her as nothing but a common woman."
+    },
+    {
+      "score": 0.429016,
+      "arguments": [
+        {
+          "text": "her",
+          "entities": [
+            {
+              "text": "She",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1655,
+            1658
+          ]
+        },
+        {
+          "text": "asked",
+          "entities": [
+            {
+              "text": "asked",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1685,
+            1690
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "She complained that she slept badly, that her heart throbbed violently; asked the same questions, troubled now by jealousy and now by the fear that he did not respect her sufficiently."
+    },
+    {
+      "score": 0.625494,
+      "arguments": [
+        {
+          "text": "he",
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1867,
+            1869
+          ]
+        },
+        {
+          "text": "kissed",
+          "entities": [
+            {
+              "text": "kissed",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1899,
+            1905
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "And often in the square or gardens, when there was no one near them, he suddenly drew her to him and kissed her passionately."
+    },
+    {
+      "score": 0.50856,
+      "arguments": [
+        {
+          "text": "her",
+          "entities": [
+            {
+              "text": "She",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1906,
+            1909
+          ]
+        },
+        {
+          "text": "kissed",
+          "entities": [
+            {
+              "text": "kissed",
+              "type": "Crime"
+            }
+          ],
+          "location": [
+            1899,
+            1905
+          ]
+        }
+      ],
+      "type": "affectedBy",
+      "sentence": "And often in the square or gardens, when there was no one near them, he suddenly drew her to him and kissed her passionately."
+    },
+    {
+      "score": 0.997299,
+      "arguments": [
+        {
+          "text": "he",
+          "entities": [
+            {
+              "text": "him",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            2175,
+            2177
+          ]
+        },
+        {
+          "text": "told",
+          "entities": [
+            {
+              "text": "told",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            2178,
+            2182
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "Complete idleness, these kisses in broad daylight while he looked round in dread of some one's seeing them, the heat, the smell of the sea, and the continual passing to and fro before him of idle, well-dressed, well-fed people, made a new man of him; he told Anna Sergeyevna how beautiful she was, how fascinating."
+    }
+  ],
+  "entities": [
+    {
+      "relevance": 0.780348,
+      "text": "Oreanda",
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2,
+      "type": "Location"
+    },
+    {
+      "relevance": 0.743227,
+      "text": "Anna Sergeyevna",
+      "count": 11,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.720874,
+      "text": "Yalta",
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "dbpedia_resource": "http://dbpedia.org/resource/Yalta",
+        "name": "Yalta"
+      },
+      "count": 2,
+      "type": "Location"
+    },
+    {
+      "relevance": 0.584219,
+      "text": "Oreanda",
+      "count": 1,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.451555,
+      "text": "Gurov",
+      "count": 1,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.435561,
+      "text": "Theodosia",
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1,
+      "type": "Location"
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.563038,
+        "fear": 0.651609,
+        "anger": 0.071991,
+        "joy": 0.660917,
+        "disgust": 0.092083
+      }
+    }
+  },
+  "categories": [
+    {
+      "score": 0.805797,
+      "label": "/society/social institution/divorce"
+    },
+    {
+      "score": 0.723137,
+      "label": "/society/unrest and war"
+    },
+    {
+      "score": 0.656853,
+      "label": "/art and entertainment/shows and events"
+    }
+  ],
+  "keywords": [
+    {
+      "relevance": 0.720017,
+      "text": "monotonous hollow sound of the sea",
+      "count": 1
+    },
+    {
+      "relevance": 0.615942,
+      "text": "complete indifference",
+      "count": 1
+    },
+    {
+      "relevance": 0.570278,
+      "text": "broad daylight",
+      "count": 1
+    },
+    {
+      "relevance": 0.568719,
+      "text": "young woman",
+      "count": 1
+    },
+    {
+      "relevance": 0.556511,
+      "text": "Complete idleness",
+      "count": 1
+    },
+    {
+      "relevance": 0.554817,
+      "text": "eternal sleep",
+      "count": 1
+    },
+    {
+      "relevance": 0.549976,
+      "text": "continual passing",
+      "count": 1
+    },
+    {
+      "relevance": 0.543143,
+      "text": "white clouds",
+      "count": 1
+    },
+    {
+      "relevance": 0.538137,
+      "text": "human dignity",
+      "count": 1
+    },
+    {
+      "relevance": 0.53711,
+      "text": "unceasing movement of life",
+      "count": 1
+    },
+    {
+      "relevance": 0.537075,
+      "text": "fed people",
+      "count": 1
+    },
+    {
+      "relevance": 0.534219,
+      "text": "constancy",
+      "count": 1
+    },
+    {
+      "relevance": 0.533226,
+      "text": "pledge of our eternal salvation",
+      "count": 1
+    },
+    {
+      "relevance": 0.533183,
+      "text": "Yalta",
+      "count": 2
+    },
+    {
+      "relevance": 0.529566,
+      "text": "smell of the sea",
+      "count": 1
+    },
+    {
+      "relevance": 0.528989,
+      "text": "open sky",
+      "count": 1
+    },
+    {
+      "relevance": 0.528762,
+      "text": "morning mist",
+      "count": 1
+    },
+    {
+      "relevance": 0.526501,
+      "text": "magical surroundings",
+      "count": 1
+    },
+    {
+      "relevance": 0.526056,
+      "text": "evening",
+      "count": 1
+    },
+    {
+      "relevance": 0.524669,
+      "text": "sea",
+      "count": 3
+    },
+    {
+      "relevance": 0.521298,
+      "text": "mountain-tops",
+      "count": 1
+    },
+    {
+      "relevance": 0.519281,
+      "text": "gardens",
+      "count": 1
+    },
+    {
+      "relevance": 0.513905,
+      "text": "trees",
+      "count": 1
+    },
+    {
+      "relevance": 0.513553,
+      "text": "grasshoppers",
+      "count": 1
+    },
+    {
+      "relevance": 0.51344,
+      "text": "life",
+      "count": 1
+    },
+    {
+      "relevance": 0.512688,
+      "text": "new man",
+      "count": 1
+    },
+    {
+      "relevance": 0.512529,
+      "text": "town",
+      "count": 2
+    },
+    {
+      "relevance": 0.512077,
+      "text": "day",
+      "count": 1
+    },
+    {
+      "relevance": 0.511245,
+      "text": "dread",
+      "count": 1
+    },
+    {
+      "relevance": 0.511132,
+      "text": "kisses",
+      "count": 1
+    },
+    {
+      "relevance": 0.510886,
+      "text": "heat",
+      "count": 1
+    },
+    {
+      "relevance": 0.510486,
+      "text": "dawn",
+      "count": 1
+    },
+    {
+      "relevance": 0.509964,
+      "text": "Oreanda",
+      "count": 3
+    },
+    {
+      "relevance": 0.509937,
+      "text": "man",
+      "count": 1
+    },
+    {
+      "relevance": 0.509482,
+      "text": "steamer",
+      "count": 1
+    },
+    {
+      "relevance": 0.509455,
+      "text": "heart",
+      "count": 1
+    },
+    {
+      "relevance": 0.509337,
+      "text": "death",
+      "count": 1
+    },
+    {
+      "relevance": 0.50925,
+      "text": "step",
+      "count": 1
+    },
+    {
+      "relevance": 0.508511,
+      "text": "world",
+      "count": 1
+    },
+    {
+      "relevance": 0.507919,
+      "text": "reality",
+      "count": 1
+    },
+    {
+      "relevance": 0.507371,
+      "text": "dew",
+      "count": 1
+    },
+    {
+      "relevance": 0.507212,
+      "text": "waterfall",
+      "count": 1
+    },
+    {
+      "relevance": 0.506954,
+      "text": "seat",
+      "count": 1
+    },
+    {
+      "relevance": 0.506701,
+      "text": "detail",
+      "count": 1
+    },
+    {
+      "relevance": 0.506665,
+      "text": "peace",
+      "count": 1
+    },
+    {
+      "relevance": 0.506521,
+      "text": "expedition",
+      "count": 1
+    },
+    {
+      "relevance": 0.506373,
+      "text": "clouds",
+      "count": 1
+    },
+    {
+      "relevance": 0.506309,
+      "text": "questions",
+      "count": 1
+    },
+    {
+      "relevance": 0.505882,
+      "text": "Theodosia",
+      "count": 1
+    },
+    {
+      "relevance": 0.505822,
+      "text": "success",
+      "count": 1
+    }
+  ]
+}

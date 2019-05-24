@@ -1,0 +1,320 @@
+{
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "He"
+      },
+      "action": {
+        "text": "tried",
+        "verb": {
+          "text": "try",
+          "tense": "past"
+        },
+        "normalized": "try"
+      },
+      "object": {
+        "text": "to cut open his own skull"
+      },
+      "sentence": "He tried to cut open his own skull."
+    },
+    {
+      "subject": {
+        "text": "He"
+      },
+      "action": {
+        "text": "tried to cut",
+        "verb": {
+          "text": "cut",
+          "tense": "future"
+        },
+        "normalized": "try to cut"
+      },
+      "object": {
+        "text": "his own skull"
+      },
+      "sentence": "He tried to cut open his own skull."
+    },
+    {
+      "subject": {
+        "text": "A disconnect in the amygdala"
+      },
+      "action": {
+        "text": "convinces",
+        "verb": {
+          "text": "convince",
+          "tense": "present"
+        },
+        "normalized": "convince"
+      },
+      "object": {
+        "text": "you"
+      },
+      "sentence": " A disconnect in the amygdala convinces you that you're secretly dead."
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "action": {
+        "text": "are",
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "dead"
+      },
+      "sentence": " A disconnect in the amygdala convinces you that you're secretly dead."
+    },
+    {
+      "subject": {
+        "text": "you"
+      },
+      "action": {
+        "text": "say",
+        "verb": {
+          "text": "say",
+          "tense": "present"
+        },
+        "normalized": "say"
+      },
+      "object": {
+        "text": "it was caused by antivirals"
+      },
+      "sentence": " No prior history of mental illness, and before you say it was caused by antivirals, I've already ruled that out."
+    },
+    {
+      "subject": {
+        "text": "by antivirals"
+      },
+      "action": {
+        "text": "was caused",
+        "verb": {
+          "text": "cause",
+          "tense": "past"
+        },
+        "normalized": "be cause"
+      },
+      "object": {
+        "text": "it"
+      },
+      "sentence": " No prior history of mental illness, and before you say it was caused by antivirals, I've already ruled that out."
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "have",
+        "verb": {
+          "text": "have",
+          "tense": "present"
+        },
+        "normalized": "have"
+      },
+      "sentence": " No prior history of mental illness, and before you say it was caused by antivirals, I've already ruled that out."
+    },
+    {
+      "subject": {
+        "text": "I"
+      },
+      "action": {
+        "text": "already ruled",
+        "verb": {
+          "text": "rule",
+          "tense": "past"
+        },
+        "normalized": "already rule"
+      },
+      "object": {
+        "text": "that out"
+      },
+      "sentence": " No prior history of mental illness, and before you say it was caused by antivirals, I've already ruled that out."
+    },
+    {
+      "subject": {
+        "text": "Plus Cotard's"
+      },
+      "action": {
+        "text": "explain",
+        "verb": {
+          "text": "explain",
+          "negated": true,
+          "tense": "future"
+        },
+        "normalized": "explain"
+      },
+      "object": {
+        "text": "the paresthesia"
+      },
+      "sentence": " Plus Cotard's doesn't explain the paresthesia in his hand."
+    }
+  ],
+  "usage": {
+    "features": 8,
+    "text_units": 1,
+    "text_characters": 453
+  },
+  "concepts": [
+    {
+      "relevance": 0.989623,
+      "text": "Past tense",
+      "dbpedia_resource": "http://dbpedia.org/resource/Past_tense"
+    },
+    {
+      "relevance": 0.937703,
+      "text": "Cotard delusion",
+      "dbpedia_resource": "http://dbpedia.org/resource/Cotard_delusion"
+    },
+    {
+      "relevance": 0.859854,
+      "text": "Delusional disorder",
+      "dbpedia_resource": "http://dbpedia.org/resource/Delusional_disorder"
+    },
+    {
+      "relevance": 0.734426,
+      "text": "Delusion",
+      "dbpedia_resource": "http://dbpedia.org/resource/Delusion"
+    },
+    {
+      "relevance": 0.729744,
+      "text": "Jules Cotard",
+      "dbpedia_resource": "http://dbpedia.org/resource/Jules_Cotard"
+    },
+    {
+      "relevance": 0.652498,
+      "text": "Psychosis",
+      "dbpedia_resource": "http://dbpedia.org/resource/Psychosis"
+    },
+    {
+      "relevance": 0.581159,
+      "text": "Scientific method",
+      "dbpedia_resource": "http://dbpedia.org/resource/Scientific_method"
+    },
+    {
+      "relevance": 0.520828,
+      "text": "Mental illness",
+      "dbpedia_resource": "http://dbpedia.org/resource/Mental_illness"
+    }
+  ],
+  "sentiment": {
+    "document": {
+      "score": -0.370412,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "relations": [],
+  "entities": [
+    {
+      "relevance": 0.960325,
+      "text": "Cotard",
+      "count": 1,
+      "type": "Company"
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.685551,
+        "fear": 0.090454,
+        "anger": 0.15922,
+        "joy": 0.467594,
+        "disgust": 0.103275
+      }
+    }
+  },
+  "categories": [
+    {
+      "score": 0.783399,
+      "label": "/health and fitness/disorders/mental disorder/bipolar disorder"
+    },
+    {
+      "score": 0.689709,
+      "label": "/health and fitness/disorders/mental disorder/panic and anxiety"
+    },
+    {
+      "score": 0.643341,
+      "label": "/society/crime/personal offense/homicide"
+    }
+  ],
+  "keywords": [
+    {
+      "relevance": 0.910416,
+      "text": "prior history of mental illness",
+      "count": 1
+    },
+    {
+      "relevance": 0.853107,
+      "text": "Cotard delusion",
+      "count": 1
+    },
+    {
+      "relevance": 0.770651,
+      "text": "past tense",
+      "count": 1
+    },
+    {
+      "relevance": 0.753376,
+      "text": "Head CT",
+      "count": 1
+    },
+    {
+      "relevance": 0.554961,
+      "text": "Walking Corpse Syndrome",
+      "count": 1
+    },
+    {
+      "relevance": 0.553109,
+      "text": "Case",
+      "count": 1
+    },
+    {
+      "relevance": 0.536913,
+      "text": "amygdala",
+      "count": 1
+    },
+    {
+      "relevance": 0.520211,
+      "text": "hand",
+      "count": 1
+    },
+    {
+      "relevance": 0.507153,
+      "text": "tox screen",
+      "count": 1
+    },
+    {
+      "relevance": 0.466658,
+      "text": "own skull",
+      "count": 1
+    },
+    {
+      "relevance": 0.378587,
+      "text": "disconnect",
+      "count": 1
+    },
+    {
+      "relevance": 0.354801,
+      "text": "Cotard",
+      "count": 1
+    },
+    {
+      "relevance": 0.339527,
+      "text": "paresthesia",
+      "count": 1
+    },
+    {
+      "relevance": 0.338244,
+      "text": "antivirals",
+      "count": 1
+    },
+    {
+      "relevance": 0.334407,
+      "text": "interesting",
+      "count": 1
+    }
+  ]
+}

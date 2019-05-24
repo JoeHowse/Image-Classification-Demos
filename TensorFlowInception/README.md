@@ -1,4 +1,4 @@
-# image_retraining
+# TensorFlow Inception image_retraining
 
 This sample shows how to retrain and use the Inception image classifier in TensorFlow. It has been tested on Mac OS 10.11 (El Capitan) with Python 2.7 and TensorFlow 1.1.
 

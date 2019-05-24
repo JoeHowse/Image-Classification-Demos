@@ -1,0 +1,1058 @@
+{
+  "semantic_roles": [
+    {
+      "subject": {
+        "text": "He"
+      },
+      "action": {
+        "text": "had",
+        "verb": {
+          "text": "have",
+          "tense": "past"
+        },
+        "normalized": "have"
+      },
+      "object": {
+        "text": "recently read a eulogy on a new method for curing club-foot"
+      },
+      "sentence": "He had recently read a eulogy on a new method for curing club-foot, and as he was a partisan of progress, he conceived the patriotic idea that Yonville, in order to keep to the fore, ought to have some operations for strephopody or club-foot."
+    },
+    {
+      "subject": {
+        "text": "He"
+      },
+      "action": {
+        "text": "read",
+        "verb": {
+          "text": "read",
+          "tense": "past"
+        },
+        "normalized": "read"
+      },
+      "object": {
+        "text": "a eulogy on a new method for curing club-foot"
+      },
+      "sentence": "He had recently read a eulogy on a new method for curing club-foot, and as he was a partisan of progress, he conceived the patriotic idea that Yonville, in order to keep to the fore, ought to have some operations for strephopody or club-foot."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "was",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "a partisan of progress"
+      },
+      "sentence": "He had recently read a eulogy on a new method for curing club-foot, and as he was a partisan of progress, he conceived the patriotic idea that Yonville, in order to keep to the fore, ought to have some operations for strephopody or club-foot."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "conceived",
+        "verb": {
+          "text": "conceive",
+          "tense": "past"
+        },
+        "normalized": "conceive"
+      },
+      "object": {
+        "text": "the patriotic idea that Yonville"
+      },
+      "sentence": "He had recently read a eulogy on a new method for curing club-foot, and as he was a partisan of progress, he conceived the patriotic idea that Yonville, in order to keep to the fore, ought to have some operations for strephopody or club-foot."
+    },
+    {
+      "subject": {
+        "text": "what risk"
+      },
+      "action": {
+        "text": "is",
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "normalized": "be"
+      },
+      "sentence": " \"For,\" said he to Emma, \"what risk is there?"
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "enumerated",
+        "verb": {
+          "text": "enumerate",
+          "tense": "past"
+        },
+        "normalized": "enumerate"
+      },
+      "object": {
+        "text": "almost certain relief and beautifying of the patient, celebrity acquired by the operator"
+      },
+      "sentence": " See --\" (and he enumerated on his fingers the advantages of the attempt), \"success, almost certain relief and beautifying of the patient, celebrity acquired by the operator."
+    },
+    {
+      "subject": {
+        "text": "by the operator"
+      },
+      "action": {
+        "text": "acquired",
+        "verb": {
+          "text": "acquire",
+          "tense": "past"
+        },
+        "normalized": "acquire"
+      },
+      "object": {
+        "text": "the patient, celebrity"
+      },
+      "sentence": " See --\" (and he enumerated on his fingers the advantages of the attempt), \"success, almost certain relief and beautifying of the patient, celebrity acquired by the operator."
+    },
+    {
+      "subject": {
+        "text": "not your husband"
+      },
+      "action": {
+        "text": "relieve",
+        "verb": {
+          "text": "relieve",
+          "tense": "future"
+        },
+        "normalized": "relieve"
+      },
+      "object": {
+        "text": "poor Hippolyte of the 'Lion d'Or'"
+      },
+      "sentence": " Why, for example, should not your husband relieve poor Hippolyte of the 'Lion d'Or'?"
+    },
+    {
+      "subject": {
+        "text": "Homais"
+      },
+      "action": {
+        "text": "lowered",
+        "verb": {
+          "text": "lower",
+          "tense": "past"
+        },
+        "normalized": "lower"
+      },
+      "object": {
+        "text": "his voice"
+      },
+      "sentence": " Note that he would not fail to tell about his cure to all the travellers, and then\" (Homais lowered his voice and looked round him) \"who is to prevent me from sending a short paragraph on the subject to the paper?"
+    },
+    {
+      "subject": {
+        "text": "him"
+      },
+      "action": {
+        "text": "is to prevent",
+        "verb": {
+          "text": "prevent",
+          "tense": "future"
+        },
+        "normalized": "be to prevent"
+      },
+      "object": {
+        "text": "me"
+      },
+      "sentence": " Note that he would not fail to tell about his cure to all the travellers, and then\" (Homais lowered his voice and looked round him) \"who is to prevent me from sending a short paragraph on the subject to the paper?"
+    },
+    {
+      "subject": {
+        "text": "me"
+      },
+      "action": {
+        "text": "sending",
+        "verb": {
+          "text": "send",
+          "tense": "present"
+        },
+        "normalized": "send"
+      },
+      "object": {
+        "text": "a short paragraph"
+      },
+      "sentence": " Note that he would not fail to tell about his cure to all the travellers, and then\" (Homais lowered his voice and looked round him) \"who is to prevent me from sending a short paragraph on the subject to the paper?"
+    },
+    {
+      "subject": {
+        "text": "an article"
+      },
+      "action": {
+        "text": "gets",
+        "verb": {
+          "text": "get",
+          "tense": "present"
+        },
+        "normalized": "get"
+      },
+      "object": {
+        "text": "about"
+      },
+      "sentence": " Eh! goodness me! an article gets about; it is talked of; it ends by making a snowball!"
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "action": {
+        "text": "is",
+        "verb": {
+          "text": "be",
+          "tense": "present"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "talked of"
+      },
+      "sentence": " Eh! goodness me! an article gets about; it is talked of; it ends by making a snowball!"
+    },
+    {
+      "subject": {
+        "text": "it"
+      },
+      "action": {
+        "text": "making",
+        "verb": {
+          "text": "make",
+          "tense": "present"
+        },
+        "normalized": "make"
+      },
+      "object": {
+        "text": "a snowball"
+      },
+      "sentence": " Eh! goodness me! an article gets about; it is talked of; it ends by making a snowball!"
+    },
+    {
+      "subject": {
+        "text": "a satisfaction for her"
+      },
+      "action": {
+        "text": "to have urged",
+        "verb": {
+          "text": "urge",
+          "tense": "past"
+        },
+        "normalized": "to have urge"
+      },
+      "object": {
+        "text": "him"
+      },
+      "sentence": " Nothing proved to Emma that he was not clever; and what a satisfaction for her to have urged him to a step by which his reputation and fortune would be increased!"
+    },
+    {
+      "subject": {
+        "text": "his reputation and fortune"
+      },
+      "action": {
+        "text": "be",
+        "verb": {
+          "text": "be",
+          "tense": "future"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "increased"
+      },
+      "sentence": " Nothing proved to Emma that he was not clever; and what a satisfaction for her to have urged him to a step by which his reputation and fortune would be increased!"
+    },
+    {
+      "subject": {
+        "text": "She"
+      },
+      "action": {
+        "text": "wished",
+        "verb": {
+          "text": "wish",
+          "tense": "past"
+        },
+        "normalized": "wish"
+      },
+      "object": {
+        "text": "to lean on something more solid than love"
+      },
+      "sentence": " She only wished to lean on something more solid than love."
+    },
+    {
+      "subject": {
+        "text": "by the druggist"
+      },
+      "action": {
+        "text": "urged",
+        "verb": {
+          "text": "urge",
+          "tense": "past"
+        },
+        "normalized": "urge"
+      },
+      "object": {
+        "text": "Charles"
+      },
+      "sentence": " Charles, urged by the druggist and by her, allowed himself to be persuaded."
+    },
+    {
+      "subject": {
+        "text": "Charles, urged by the druggist and by her,"
+      },
+      "action": {
+        "text": "allowed",
+        "verb": {
+          "text": "allow",
+          "tense": "past"
+        },
+        "normalized": "allow"
+      },
+      "object": {
+        "text": "himself"
+      },
+      "sentence": " Charles, urged by the druggist and by her, allowed himself to be persuaded."
+    },
+    {
+      "subject": {
+        "text": "He"
+      },
+      "action": {
+        "text": "holding",
+        "verb": {
+          "text": "hold",
+          "tense": "present"
+        },
+        "normalized": "hold"
+      },
+      "object": {
+        "text": "his head"
+      },
+      "sentence": " He sent to Rouen for Dr. Duval's volume, and every evening, holding his head between both hands, plunged into the reading of it."
+    },
+    {
+      "subject": {
+        "text": "he"
+      },
+      "action": {
+        "text": "was studying",
+        "verb": {
+          "text": "study",
+          "tense": "past"
+        },
+        "normalized": "be study"
+      },
+      "object": {
+        "text": "equinus"
+      },
+      "sentence": " While he was studying equinus, varus, and valgus, that is to say, katastrephopody, endostrephopody, and exostrephopody (or better, the various turnings of the foot downwards, inwards, and outwards, with the hypostrephopody and anastrephopody), otherwise torsion downwards and upwards, Monsier Homais, with all sorts of arguments, was exhorting the lad at the inn to submit to the operation."
+    },
+    {
+      "subject": {
+        "text": "Monsier Homais, with all sorts of arguments,"
+      },
+      "action": {
+        "text": "was",
+        "verb": {
+          "text": "be",
+          "tense": "past"
+        },
+        "normalized": "be"
+      },
+      "object": {
+        "text": "exhorting the lad at the inn to submit to the operation"
+      },
+      "sentence": " While he was studying equinus, varus, and valgus, that is to say, katastrephopody, endostrephopody, and exostrephopody (or better, the various turnings of the foot downwards, inwards, and outwards, with the hypostrephopody and anastrephopody), otherwise torsion downwards and upwards, Monsier Homais, with all sorts of arguments, was exhorting the lad at the inn to submit to the operation."
+    },
+    {
+      "subject": {
+        "text": "the lad"
+      },
+      "action": {
+        "text": "to submit",
+        "verb": {
+          "text": "submit",
+          "tense": "future"
+        },
+        "normalized": "to submit"
+      },
+      "object": {
+        "text": "to the operation"
+      },
+      "sentence": " While he was studying equinus, varus, and valgus, that is to say, katastrephopody, endostrephopody, and exostrephopody (or better, the various turnings of the foot downwards, inwards, and outwards, with the hypostrephopody and anastrephopody), otherwise torsion downwards and upwards, Monsier Homais, with all sorts of arguments, was exhorting the lad at the inn to submit to the operation."
+    }
+  ],
+  "usage": {
+    "features": 8,
+    "text_units": 1,
+    "text_characters": 1728
+  },
+  "concepts": [
+    {
+      "relevance": 0.943639,
+      "text": "Madame Bovary",
+      "dbpedia_resource": "http://dbpedia.org/resource/Madame_Bovary"
+    },
+    {
+      "relevance": 0.724806,
+      "text": "Rouen",
+      "dbpedia_resource": "http://dbpedia.org/resource/Rouen"
+    },
+    {
+      "relevance": 0.712207,
+      "text": "Valgus deformity",
+      "dbpedia_resource": "http://dbpedia.org/resource/Valgus_deformity"
+    },
+    {
+      "relevance": 0.692047,
+      "text": "Varus deformity",
+      "dbpedia_resource": "http://dbpedia.org/resource/Varus_deformity"
+    },
+    {
+      "relevance": 0.680448,
+      "text": "Subject",
+      "dbpedia_resource": "http://dbpedia.org/resource/Subject_(philosophy)"
+    }
+  ],
+  "sentiment": {
+    "document": {
+      "score": -0.301464,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "relations": [
+    {
+      "score": 0.471041,
+      "arguments": [
+        {
+          "text": "he",
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            256,
+            258
+          ]
+        },
+        {
+          "text": "said",
+          "entities": [
+            {
+              "text": "said",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            251,
+            255
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "\"For,\" said he to Emma, \"what risk is there?"
+    },
+    {
+      "score": 0.31641,
+      "arguments": [
+        {
+          "text": "celebrity",
+          "entities": [
+            {
+              "text": "celebrity",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            427,
+            436
+          ]
+        },
+        {
+          "text": "operator",
+          "entities": [
+            {
+              "text": "operator",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            453,
+            461
+          ]
+        }
+      ],
+      "type": "managerOf",
+      "sentence": "See --\" (and he enumerated on his fingers the advantages of the attempt), \"success, almost certain relief and beautifying of the patient, celebrity acquired by the operator."
+    },
+    {
+      "score": 0.483046,
+      "arguments": [
+        {
+          "text": "operator",
+          "entities": [
+            {
+              "text": "operator",
+              "type": "Organization"
+            }
+          ],
+          "location": [
+            453,
+            461
+          ]
+        },
+        {
+          "text": "acquired",
+          "entities": [
+            {
+              "text": "acquired",
+              "type": "EventBusiness"
+            }
+          ],
+          "location": [
+            437,
+            445
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "See --\" (and he enumerated on his fingers the advantages of the attempt), \"success, almost certain relief and beautifying of the patient, celebrity acquired by the operator."
+    },
+    {
+      "score": 0.653329,
+      "arguments": [
+        {
+          "text": "your",
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            492,
+            496
+          ]
+        },
+        {
+          "text": "husband",
+          "entities": [
+            {
+              "text": "husband",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            497,
+            504
+          ]
+        }
+      ],
+      "type": "spouseOf",
+      "sentence": "Why, for example, should not your husband relieve poor Hippolyte of the 'Lion d'Or'?"
+    },
+    {
+      "score": 0.6006,
+      "arguments": [
+        {
+          "text": "he",
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            558,
+            560
+          ]
+        },
+        {
+          "text": "tell",
+          "entities": [
+            {
+              "text": "tell",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            579,
+            583
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "Note that he would not fail to tell about his cure to all the travellers, and then\" (Homais lowered his voice and looked round him) \"who is to prevent me from sending a short paragraph on the subject to the paper?"
+    },
+    {
+      "score": 0.85497,
+      "arguments": [
+        {
+          "text": "her",
+          "entities": [
+            {
+              "text": "Emma",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            983,
+            986
+          ]
+        },
+        {
+          "text": "urged",
+          "entities": [
+            {
+              "text": "urged",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            995,
+            1000
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "Nothing proved to Emma that he was not clever; and what a satisfaction for her to have urged him to a step by which his reputation and fortune would be increased!"
+    },
+    {
+      "score": 0.800945,
+      "arguments": [
+        {
+          "text": "him",
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1001,
+            1004
+          ]
+        },
+        {
+          "text": "urged",
+          "entities": [
+            {
+              "text": "urged",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            995,
+            1000
+          ]
+        }
+      ],
+      "type": "affectedBy",
+      "sentence": "Nothing proved to Emma that he was not clever; and what a satisfaction for her to have urged him to a step by which his reputation and fortune would be increased!"
+    },
+    {
+      "score": 0.755675,
+      "arguments": [
+        {
+          "text": "Charles",
+          "entities": [
+            {
+              "text": "Charles",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1131,
+            1138
+          ]
+        },
+        {
+          "text": "urged",
+          "entities": [
+            {
+              "text": "urged",
+              "type": "EventCommunication"
+            }
+          ],
+          "location": [
+            1140,
+            1145
+          ]
+        }
+      ],
+      "type": "agentOf",
+      "sentence": "Charles, urged by the druggist and by her, allowed himself to be persuaded."
+    },
+    {
+      "score": 0.531402,
+      "arguments": [
+        {
+          "text": "He",
+          "entities": [
+            {
+              "text": "himself",
+              "type": "Person"
+            }
+          ],
+          "location": [
+            1207,
+            1209
+          ]
+        },
+        {
+          "text": "Rouen",
+          "entities": [
+            {
+              "text": "Rouen",
+              "type": "GeopoliticalEntity"
+            }
+          ],
+          "location": [
+            1218,
+            1223
+          ]
+        }
+      ],
+      "type": "locatedAt",
+      "sentence": "He sent to Rouen for Dr. Duval's volume, and every evening, holding his head between both hands, plunged into the reading of it."
+    }
+  ],
+  "entities": [
+    {
+      "relevance": 0.929324,
+      "text": "Monsier Homais",
+      "count": 5,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.8933,
+      "text": "Emma",
+      "count": 4,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.653688,
+      "text": "Bovary",
+      "count": 3,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.545645,
+      "text": "Charles",
+      "count": 3,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.524071,
+      "text": "Dr. Duval",
+      "count": 2,
+      "type": "Person"
+    },
+    {
+      "relevance": 0.514545,
+      "text": "Rouen",
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "dbpedia_resource": "http://dbpedia.org/resource/Rouen",
+        "name": "Rouen"
+      },
+      "count": 1,
+      "type": "Location"
+    },
+    {
+      "relevance": 0.513867,
+      "text": "Yonville",
+      "count": 1,
+      "type": "Person"
+    }
+  ],
+  "emotion": {
+    "document": {
+      "emotion": {
+        "sadness": 0.115728,
+        "fear": 0.504478,
+        "anger": 0.091385,
+        "joy": 0.637977,
+        "disgust": 0.103384
+      }
+    }
+  },
+  "categories": [
+    {
+      "score": 0.662398,
+      "label": "/society/unrest and war"
+    },
+    {
+      "score": 0.601481,
+      "label": "/law, govt and politics"
+    },
+    {
+      "score": 0.592501,
+      "label": "/business and industrial/business operations"
+    }
+  ],
+  "keywords": [
+    {
+      "relevance": 0.644093,
+      "text": "club-foot",
+      "count": 2
+    },
+    {
+      "relevance": 0.593142,
+      "text": "various turnings of the foot",
+      "count": 1
+    },
+    {
+      "relevance": 0.588471,
+      "text": "partisan of progress",
+      "count": 1
+    },
+    {
+      "relevance": 0.581223,
+      "text": "new method",
+      "count": 1
+    },
+    {
+      "relevance": 0.575426,
+      "text": "patriotic idea",
+      "count": 1
+    },
+    {
+      "relevance": 0.570306,
+      "text": "Dr. Duval's volume",
+      "count": 1
+    },
+    {
+      "relevance": 0.565146,
+      "text": "Monsier Homais",
+      "count": 1
+    },
+    {
+      "relevance": 0.559619,
+      "text": "advantages of the attempt",
+      "count": 1
+    },
+    {
+      "relevance": 0.541989,
+      "text": "sorts of arguments",
+      "count": 1
+    },
+    {
+      "relevance": 0.530478,
+      "text": "cure",
+      "count": 1
+    },
+    {
+      "relevance": 0.525318,
+      "text": "beautifying of the patient",
+      "count": 1
+    },
+    {
+      "relevance": 0.525318,
+      "text": "poor Hippolyte",
+      "count": 1
+    },
+    {
+      "relevance": 0.522708,
+      "text": "example",
+      "count": 1
+    },
+    {
+      "relevance": 0.522204,
+      "text": "varus",
+      "count": 1
+    },
+    {
+      "relevance": 0.521349,
+      "text": "voice",
+      "count": 1
+    },
+    {
+      "relevance": 0.520529,
+      "text": "eulogy",
+      "count": 1
+    },
+    {
+      "relevance": 0.519261,
+      "text": "travellers",
+      "count": 1
+    },
+    {
+      "relevance": 0.518136,
+      "text": "article",
+      "count": 1
+    },
+    {
+      "relevance": 0.516608,
+      "text": "Emma",
+      "count": 2
+    },
+    {
+      "relevance": 0.516505,
+      "text": "Rouen",
+      "count": 1
+    },
+    {
+      "relevance": 0.515979,
+      "text": "short paragraph",
+      "count": 1
+    },
+    {
+      "relevance": 0.514516,
+      "text": "fingers",
+      "count": 1
+    },
+    {
+      "relevance": 0.513638,
+      "text": "torsion",
+      "count": 1
+    },
+    {
+      "relevance": 0.513169,
+      "text": "order",
+      "count": 1
+    },
+    {
+      "relevance": 0.512962,
+      "text": "Lion d'Or",
+      "count": 1
+    },
+    {
+      "relevance": 0.511108,
+      "text": "success",
+      "count": 1
+    },
+    {
+      "relevance": 0.511034,
+      "text": "fore",
+      "count": 1
+    },
+    {
+      "relevance": 0.510637,
+      "text": "Charles",
+      "count": 1
+    },
+    {
+      "relevance": 0.510045,
+      "text": "fact",
+      "count": 1
+    },
+    {
+      "relevance": 0.509614,
+      "text": "satisfaction",
+      "count": 1
+    },
+    {
+      "relevance": 0.509578,
+      "text": "operations",
+      "count": 1
+    },
+    {
+      "relevance": 0.509176,
+      "text": "relief",
+      "count": 1
+    },
+    {
+      "relevance": 0.509176,
+      "text": "evening",
+      "count": 1
+    },
+    {
+      "relevance": 0.507098,
+      "text": "lad",
+      "count": 1
+    },
+    {
+      "relevance": 0.506792,
+      "text": "step",
+      "count": 1
+    },
+    {
+      "relevance": 0.506792,
+      "text": "head",
+      "count": 1
+    },
+    {
+      "relevance": 0.505929,
+      "text": "druggist",
+      "count": 1
+    },
+    {
+      "relevance": 0.505854,
+      "text": "inn",
+      "count": 1
+    },
+    {
+      "relevance": 0.505602,
+      "text": "celebrity",
+      "count": 1
+    },
+    {
+      "relevance": 0.505602,
+      "text": "reputation",
+      "count": 1
+    },
+    {
+      "relevance": 0.505602,
+      "text": "hands",
+      "count": 1
+    },
+    {
+      "relevance": 0.504789,
+      "text": "operation",
+      "count": 1
+    },
+    {
+      "relevance": 0.50462,
+      "text": "fortune",
+      "count": 1
+    },
+    {
+      "relevance": 0.503811,
+      "text": "risk",
+      "count": 1
+    },
+    {
+      "relevance": 0.503811,
+      "text": "operator",
+      "count": 1
+    },
+    {
+      "relevance": 0.503811,
+      "text": "paper",
+      "count": 1
+    },
+    {
+      "relevance": 0.503811,
+      "text": "goodness",
+      "count": 1
+    },
+    {
+      "relevance": 0.503811,
+      "text": "snowball",
+      "count": 1
+    },
+    {
+      "relevance": 0.503811,
+      "text": "love",
+      "count": 1
+    },
+    {
+      "relevance": 0.499941,
+      "text": "equinus",
+      "count": 1
+    }
+  ]
+}
