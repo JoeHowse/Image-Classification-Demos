@@ -4,7 +4,7 @@ These samples show how to use the Watson Developer Cloud Python SDK to access th
 
 The `basic_image_classification` and `custom_dog_classifier` samples are adapted by Nummist Media (Joseph Howse) from IBM samples.
 
-The `image_tagger_for_mac` sample is by Nummist Media (Joseph Howse) with file-tagging code adapted from a Brett Terpstra sample.
+The `image_tagger_for_mac` sample is by Nummist Media (Joseph Howse) with file-tagging code adapted from a Brett Terpstra sample. Joseph Howse originally presented `image_tagger_for_mac` on the television show Hashtag (November 19, 2019), produced by Sertv in Panama, as part of a series of artificial intelligence demos organized by GBM, an IBM Alliance Company.
 
 ## Setting up dependencies
 
