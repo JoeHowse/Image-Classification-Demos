@@ -59,7 +59,7 @@ def main():
                 # Draw the classification result and confidence.
                 text = '%s (%.1f%%)' % (label, confidence * 100.0)
                 cv2.putText(image, text, (x0, y0 - 20),
-                    cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2)
+                    cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 0, 0), 2)
 
         cv2.imwrite(output_filename, image)
 
