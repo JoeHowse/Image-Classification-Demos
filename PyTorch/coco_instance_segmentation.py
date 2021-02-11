@@ -16,7 +16,24 @@ def main():
 
     THRESHOLD = 0.75
 
-    LABELS = [
+    LABELS_EN = [
+        '__background__', 'person', 'bicycle', 'car', 'motorcycle', 'airplane',
+        'bus', 'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'N/A',
+        'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse',
+        'sheep', 'cow', 'elephant', 'bear', 'zebra', 'giraffe', 'N/A', 'backpack',
+        'umbrella', 'N/A', 'N/A', 'handbag', 'tie', 'suitcase', 'frisbee', 'skis',
+        'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove',
+        'skateboard', 'surfboard', 'tennis racket', 'bottle', 'N/A', 'wine glass',
+        'cup', 'fork', 'knife', 'spoon', 'bowl', 'banana', 'apple', 'sandwich',
+        'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake',
+        'chair', 'couch', 'potted plant', 'bed', 'N/A', 'dining table', 'N/A',
+        'N/A', 'toilet', 'N/A', 'tv', 'laptop', 'mouse', 'remote', 'keyboard',
+        'cell phone', 'microwave', 'oven', 'toaster', 'sink', 'refrigerator',
+        'N/A', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier',
+        'toothbrush'
+    ]
+
+    LABELS_ES = [
         '__background__', 'persona', 'bicicleta', 'coche', 'motocicleta', 'avión',
         'autobús', 'tren', 'camión', 'barco', 'semáforo', 'hidrante', 'N/A',
         'señal de stop', 'parquímetro', 'banco', 'ave', 'gato', 'perro', 'caballo',
@@ -34,8 +51,14 @@ def main():
         'secador de pelo', 'cepillo de dientes'
     ]
 
-    COLORS = [(0, 0, 255), (0, 255, 0), (255, 0, 0),
-              (0, 255, 255), (255, 255, 0), (255, 0, 255)]
+    LABELS = LABELS_ES
+
+    COLORS = [
+        ((  0,   0, 255), (255, 255, 255)),  # Red with white outline
+        ((  0, 255,   0), (  0,   0,   0)),  # Green with black outline
+        ((255,   0,   0), (255, 255, 255)),  # Blue with white outline
+        ((  0, 255, 255), (  0,   0,   0))   # Yellow with black outline
+    ]
 
     for input_filename in glob.iglob(r'resources/*.jpg'):
 
@@ -63,7 +86,7 @@ def main():
             if score < THRESHOLD:
                 continue
 
-            color = COLORS[i % len(COLORS)]
+            color, outline_color = COLORS[i % len(COLORS)]
 
             # Draw the mask.
             colored_mask = numpy.zeros_like(image)
@@ -71,12 +94,16 @@ def main():
             cv2.addWeighted(image, 1.0, colored_mask, 0.5, 0.0, image)
 
             # Draw the box.
-            #cv2.rectangle(image, box[0], box[1], color, 2)
+            #cv2.rectangle(image, box[0], box[1], outline_color, 8, cv2.LINE_AA)
+            #cv2.rectangle(image, box[0], box[1], color, 2, cv2.LINE_AA)
 
             # Draw the label and score.
             text = '%s (%.1f%%)' % (label, score * 100.0)
             cv2.putText(image, text, (box[0][0], box[0][1] - 20),
-                        cv2.FONT_HERSHEY_SIMPLEX, 1.0, color, 2)
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.0, outline_color, 8,
+                        cv2.LINE_AA)
+            cv2.putText(image, text, (box[0][0], box[0][1] - 20),
+                        cv2.FONT_HERSHEY_SIMPLEX, 1.0, color, 2, cv2.LINE_AA)
 
         cv2.imwrite(output_filename, image)
 
