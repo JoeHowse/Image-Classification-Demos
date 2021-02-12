@@ -2,6 +2,7 @@
 
 
 import glob
+import timeit
 
 import cv2
 import numpy
@@ -11,7 +12,11 @@ import torchvision
 
 def main():
 
+    USE_CUDA = True
+
     model = torchvision.models.detection.maskrcnn_resnet50_fpn(pretrained=True)
+    if USE_CUDA:
+        model.cuda()
     model.eval()
 
     THRESHOLD = 0.75
@@ -69,15 +74,20 @@ def main():
         transform = torchvision.transforms.Compose(
             [torchvision.transforms.ToTensor()])
         tensor = transform(PIL.Image.open(input_filename))
+        if USE_CUDA:
+            tensor = tensor.cuda()
 
         # Detect instances in the image.
+        start_time = timeit.default_timer()
         predictions = model([tensor])[0]
-        scores = list(predictions['scores'].detach().numpy())
+        end_time = timeit.default_timer()
+        print('Segmented instances in image in %.3f seconds' % (end_time - start_time))
+        scores = list(predictions['scores'].detach().cpu().numpy())
         scores = [score for score in scores if score > THRESHOLD]
         masks = (predictions['masks'] > 0.5).squeeze().detach().cpu().numpy()
-        labels = [LABELS[i] for i in list(predictions['labels'].numpy())]
+        labels = [LABELS[i] for i in list(predictions['labels'].detach().cpu().numpy())]
         boxes = [[(int(box[0]), int(box[1])), (int(box[2]), int(box[3]))]
-                 for box in list(predictions['boxes'].detach().numpy())]
+                 for box in list(predictions['boxes'].detach().cpu().numpy())]
 
         # Visualize the results.
         for i, (score, mask, label, box) in enumerate(zip(

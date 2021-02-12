@@ -2,6 +2,7 @@
 
 
 import glob
+import timeit
 
 import cv2
 
@@ -37,8 +38,11 @@ def main():
             image, scalefactor=color_scale, size=blob_size,
             mean=average_color)
 
+        start_time = timeit.default_timer()
         model.setInput(blob)
         results = model.forward()
+        end_time = timeit.default_timer()
+        print('Detected objects in image in %.3f seconds' % (end_time - start_time))
 
         # Iterate over the detected objects.
         for object in results[0, 0]:
