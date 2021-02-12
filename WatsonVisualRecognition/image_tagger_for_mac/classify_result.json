@@ -1,11 +1,55 @@
 {
-  "images_processed": 10,
+  "images_processed": 12,
   "custom_classes": 0,
   "images": [
     {
-      "image": "resources.zip/resources/0000.jpg",
       "classifiers": [
         {
+          "name": "default",
+          "classes": [
+            {
+              "score": 0.992,
+              "class": "jaguar",
+              "type_hierarchy": "/animal/Mam\u00edfero/Carn\u00edvoro/Felino/grandes felinos/jaguar"
+            },
+            {
+              "score": 0.993,
+              "class": "grandes felinos"
+            },
+            {
+              "score": 0.993,
+              "class": "Felino"
+            },
+            {
+              "score": 0.994,
+              "class": "Carn\u00edvoro"
+            },
+            {
+              "score": 0.994,
+              "class": "Mam\u00edfero"
+            },
+            {
+              "score": 0.994,
+              "class": "animal"
+            },
+            {
+              "score": 0.69,
+              "class": "Color verde"
+            },
+            {
+              "score": 0.493,
+              "class": "Color marr\u00f3n rojizo"
+            }
+          ],
+          "classifier_id": "default"
+        }
+      ],
+      "image": "resources.zip/resources/0004.jpg"
+    },
+    {
+      "classifiers": [
+        {
+          "name": "default",
           "classes": [
             {
               "score": 0.956,
@@ -33,15 +77,15 @@
               "class": "Color verde"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0000.jpg"
     },
     {
-      "image": "resources.zip/resources/0009.jpg",
       "classifiers": [
         {
+          "name": "default",
           "classes": [
             {
               "score": 0.901,
@@ -70,15 +114,15 @@
               "class": "Color gris"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0009.jpg"
     },
     {
-      "image": "resources.zip/resources/0006.jpg",
       "classifiers": [
         {
+          "name": "default",
           "classes": [
             {
               "score": 0.963,
@@ -107,53 +151,52 @@
               "class": "Color amarillo lim\u00f3n"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0006.jpg"
     },
     {
-      "image": "resources.zip/resources/0007.jpg",
       "classifiers": [
         {
+          "name": "default",
           "classes": [
             {
-              "score": 0.928,
-              "class": "c\u00fapula",
-              "type_hierarchy": "/Cubierta protectora/c\u00fapula"
+              "score": 0.602,
+              "class": "casa adosada",
+              "type_hierarchy": "/edificio/casa adosada"
             },
             {
-              "score": 0.928,
-              "class": "Cubierta protectora"
-            },
-            {
-              "score": 0.776,
-              "class": "Astrodome",
-              "type_hierarchy": "/Cubierta protectora/c\u00fapula/Astrodome"
-            },
-            {
-              "score": 0.5,
-              "class": "Observatorio",
-              "type_hierarchy": "/edificio/Observatorio"
-            },
-            {
-              "score": 0.504,
+              "score": 0.62,
               "class": "edificio"
             },
             {
-              "score": 0.903,
+              "score": 0.5,
+              "class": "Escalera de entrada",
+              "type_hierarchy": "/Porche/Escalera de entrada"
+            },
+            {
+              "score": 0.532,
+              "class": "Porche"
+            },
+            {
+              "score": 0.856,
               "class": "Color gris"
+            },
+            {
+              "score": 0.788,
+              "class": "Color rojo ladrillo"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0008.jpg"
     },
     {
-      "image": "resources.zip/resources/0003.jpg",
       "classifiers": [
         {
+          "name": "default",
           "classes": [
             {
               "score": 0.636,
@@ -196,105 +239,15 @@
               "class": "Color azul"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0003.jpg"
     },
     {
-      "image": "resources.zip/resources/0004.jpg",
       "classifiers": [
         {
-          "classes": [
-            {
-              "score": 0.992,
-              "class": "jaguar",
-              "type_hierarchy": "/animal/Mam\u00edfero/Carn\u00edvoro/Felino/grandes felinos/jaguar"
-            },
-            {
-              "score": 0.993,
-              "class": "grandes felinos"
-            },
-            {
-              "score": 0.993,
-              "class": "Felino"
-            },
-            {
-              "score": 0.994,
-              "class": "Carn\u00edvoro"
-            },
-            {
-              "score": 0.994,
-              "class": "Mam\u00edfero"
-            },
-            {
-              "score": 0.994,
-              "class": "animal"
-            },
-            {
-              "score": 0.69,
-              "class": "Color verde"
-            },
-            {
-              "score": 0.493,
-              "class": "Color marr\u00f3n rojizo"
-            }
-          ],
-          "classifier_id": "default",
-          "name": "default"
-        }
-      ]
-    },
-    {
-      "image": "resources.zip/resources/0005.jpg",
-      "classifiers": [
-        {
-          "classes": [
-            {
-              "score": 0.809,
-              "class": "Susan de ojos negros",
-              "type_hierarchy": "/planta/planta con flores/Flor/Susan de ojos negros"
-            },
-            {
-              "score": 0.928,
-              "class": "Flor"
-            },
-            {
-              "score": 0.928,
-              "class": "planta con flores"
-            },
-            {
-              "score": 0.929,
-              "class": "planta"
-            },
-            {
-              "score": 0.676,
-              "class": "girasol de pantano",
-              "type_hierarchy": "/planta/planta con flores/Flor/Girasol/girasol de pantano"
-            },
-            {
-              "score": 0.679,
-              "class": "Girasol"
-            },
-            {
-              "score": 0.5,
-              "class": "flor de cono de hoja cortada",
-              "type_hierarchy": "/planta/planta con flores/Flor/flor de cono de hoja cortada"
-            },
-            {
-              "score": 0.88,
-              "class": "Color naranja rojizo"
-            }
-          ],
-          "classifier_id": "default",
-          "name": "default"
-        }
-      ]
-    },
-    {
-      "image": "resources.zip/resources/0002.jpg",
-      "classifiers": [
-        {
+          "name": "default",
           "classes": [
             {
               "score": 0.857,
@@ -348,63 +301,86 @@
               "class": "Color marr\u00f3n claro"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0002.jpg"
     },
     {
-      "image": "resources.zip/resources/0001.jpg",
       "classifiers": [
         {
+          "name": "default",
           "classes": [
             {
-              "score": 0.84,
+              "score": 0.716,
+              "class": "Susan de ojos negros",
+              "type_hierarchy": "/planta/planta con flores/Flor/Susan de ojos negros"
+            },
+            {
+              "score": 0.87,
+              "class": "Flor"
+            },
+            {
+              "score": 0.87,
+              "class": "planta con flores"
+            },
+            {
+              "score": 0.87,
+              "class": "planta"
+            },
+            {
+              "score": 0.5,
+              "class": "girasol de pantano",
+              "type_hierarchy": "/planta/planta con flores/Flor/Girasol/girasol de pantano"
+            },
+            {
+              "score": 0.504,
+              "class": "Girasol"
+            },
+            {
+              "score": 0.88,
+              "class": "Color naranja rojizo"
+            }
+          ],
+          "classifier_id": "default"
+        }
+      ],
+      "image": "resources.zip/resources/0005.jpg"
+    },
+    {
+      "classifiers": [
+        {
+          "name": "default",
+          "classes": [
+            {
+              "score": 0.71,
               "class": "gato",
               "type_hierarchy": "/animal/Mam\u00edfero/Carn\u00edvoro/Felino/gato"
             },
             {
-              "score": 0.842,
+              "score": 0.715,
               "class": "Felino"
             },
             {
-              "score": 0.842,
+              "score": 0.715,
               "class": "Carn\u00edvoro"
             },
             {
-              "score": 0.842,
+              "score": 0.715,
               "class": "Mam\u00edfero"
             },
             {
-              "score": 0.843,
+              "score": 0.717,
               "class": "animal"
             },
             {
-              "score": 0.629,
+              "score": 0.5,
               "class": "felpudo",
               "type_hierarchy": "/cubierta del suelo/felpudo"
             },
             {
-              "score": 0.633,
+              "score": 0.505,
               "class": "cubierta del suelo"
-            },
-            {
-              "score": 0.525,
-              "class": "umbral de la puerta",
-              "type_hierarchy": "/Apoyo/umbral de la puerta"
-            },
-            {
-              "score": 0.525,
-              "class": "Apoyo"
-            },
-            {
-              "score": 0.5,
-              "class": "gato callejero",
-              "type_hierarchy": "/animal/Mam\u00edfero/Carn\u00edvoro/Felino/gato/Gato dom\u00e9stico/gato callejero"
-            },
-            {
-              "score": 0.556,
-              "class": "Gato dom\u00e9stico"
             },
             {
               "score": 0.933,
@@ -415,68 +391,124 @@
               "class": "Color marr\u00f3n claro"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0001.jpg"
     },
     {
-      "image": "resources.zip/resources/0008.jpg",
       "classifiers": [
         {
+          "name": "default",
           "classes": [
             {
-              "score": 0.642,
-              "class": "casa adosada",
-              "type_hierarchy": "/edificio/casa adosada"
+              "score": 0.6,
+              "class": "Persona"
             },
             {
-              "score": 0.658,
-              "class": "edificio"
-            },
-            {
-              "score": 0.552,
-              "class": "Escalera de entrada",
-              "type_hierarchy": "/Porche/Escalera de entrada"
-            },
-            {
-              "score": 0.58,
-              "class": "Porche"
-            },
-            {
-              "score": 0.508,
-              "class": "Quoin (o arco)"
+              "score": 0.695,
+              "class": "Acera"
             },
             {
               "score": 0.5,
-              "class": "ventanal avanzado",
-              "type_hierarchy": "/Estructura de soporte/estructura/Ventana/ventanal avanzado"
+              "class": "Calle",
+              "type_hierarchy": "/carretera/Calle"
             },
             {
-              "score": 0.533,
-              "class": "Ventana"
+              "score": 0.5,
+              "class": "carretera"
             },
             {
-              "score": 0.533,
-              "class": "estructura"
+              "score": 0.966,
+              "class": "Color rojo alazarino"
+            }
+          ],
+          "classifier_id": "default"
+        }
+      ],
+      "image": "resources.zip/resources/0011.jpg"
+    },
+    {
+      "classifiers": [
+        {
+          "name": "default",
+          "classes": [
+            {
+              "score": 0.802,
+              "class": "Puerto",
+              "type_hierarchy": "/Refugio/Puerto"
             },
             {
-              "score": 0.534,
-              "class": "Estructura de soporte"
+              "score": 0.802,
+              "class": "Refugio"
             },
             {
-              "score": 0.856,
-              "class": "Color gris"
+              "score": 0.563,
+              "class": "Orilla de lago",
+              "type_hierarchy": "/Naturaleza/Orilla de lago"
+            },
+            {
+              "score": 0.563,
+              "class": "Naturaleza"
+            },
+            {
+              "score": 0.5,
+              "class": "Frente mar\u00edtimo"
+            },
+            {
+              "score": 0.799,
+              "class": "Pista"
+            },
+            {
+              "score": 0.791,
+              "class": "Embarcaciones"
             },
             {
               "score": 0.788,
-              "class": "Color rojo ladrillo"
+              "class": "Costa"
+            },
+            {
+              "score": 0.984,
+              "class": "Color azul"
             }
           ],
-          "classifier_id": "default",
-          "name": "default"
+          "classifier_id": "default"
         }
-      ]
+      ],
+      "image": "resources.zip/resources/0010.jpg"
+    },
+    {
+      "classifiers": [
+        {
+          "name": "default",
+          "classes": [
+            {
+              "score": 0.879,
+              "class": "c\u00fapula",
+              "type_hierarchy": "/Cubierta protectora/c\u00fapula"
+            },
+            {
+              "score": 0.879,
+              "class": "Cubierta protectora"
+            },
+            {
+              "score": 0.59,
+              "class": "Astrodome",
+              "type_hierarchy": "/Cubierta protectora/c\u00fapula/Astrodome"
+            },
+            {
+              "score": 0.799,
+              "class": "edificio"
+            },
+            {
+              "score": 0.903,
+              "class": "Color gris"
+            }
+          ],
+          "classifier_id": "default"
+        }
+      ],
+      "image": "resources.zip/resources/0007.jpg"
     }
   ]
 }
