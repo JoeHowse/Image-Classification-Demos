@@ -5,6 +5,7 @@ from __future__ import print_function
 
 import json
 import os
+import timeit
 
 from ibm_watson import VisualRecognitionV3, ApiException
 
@@ -76,9 +77,13 @@ def main():
     if run_offline:
         classify_result = None
     else:
+        t0 = timeit.default_timer()
         os.system('zip -r {0} {1} -x "{1}/.*" -x "{1}/LICENSE.txt"'.format(
             images_zip, images_dir))
+        start_time = timeit.default_timer()
         classify_result = classify_images_file(service, images_zip, language)
+        end_time = timeit.default_timer()
+        print('Query to Watson ran in %.3f seconds' % (end_time - start_time))
         os.system('rm {0}'.format(images_zip))
 
     if classify_result is None:
